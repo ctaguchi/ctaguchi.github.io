@@ -1867,6 +1867,9 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5em;
 		}
+		ul.whitecircle {
+			list-style-type: circle;
+		}
 
 	ol {
 		list-style: decimal;

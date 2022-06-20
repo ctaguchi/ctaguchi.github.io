@@ -1,14 +1,11 @@
-MSc by Research in Linguistics, University of Edinburgh
-MA in Information Science and Engineering, Nara Institute of Science and Technology
-
 # About
 
-# Hey
+I'm Chihiro Taguchi, a full-time language lover.
+I am currently pursuing two master's programs:
+- MA in Information Science and Engineering at Nara Institute of Science and Technology, Japan
+- MSc by Research in Linguistics at the University of Edinburgh, UK
+From August 2022 I will join the NLP group led by Dr. David Chiang at the University of Notre Dame. <br />
 
-## Interests
-
-Hello World!
-
-### Subsection?
-
-#### Yeah
+# Quick links
+- [CV](./assets/pdf/CV.pdf)
+- [Presentations / Publications](./pub.md)

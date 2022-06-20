@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## About
 
 I'm Chihiro Taguchi, a full-time language lover.

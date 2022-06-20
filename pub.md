@@ -16,7 +16,7 @@ Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-res
 - **Chihiro Taguchi**. (2022). 名詞述語を伴う繰り上げ構文としての人魚構文 [[Paper]](./assets/pdf/LSJ164_Paper.pdf) [[Slides]](./assets/pdf/LSJ164_Slides_final.pdf). \\
 Proceedings of the 164th Conference of the Linguistic Society of Japan.
 
-- **Chihiro Taguchi**. (2021). Mermaid Construction in Tatar [[Paper]](./assets/pdf/LSJ162_Paper.pdf). \\
+- **Chihiro Taguchi**. (2021). Mermaid Construction in Tatar [[Paper]](./assets/pdf/LSJ162_Paper.pdf) [[Slides]](./assets/pdf/LSJ162_Slides.pdf). \\
 Proceedings of the 162nd Conference of the Linguistic Society of Japan.
 
 - **Chihiro Taguchi**, Yusuke Sakai, and Taro Watanabe. (2021). Transliteration for Low-Resource Code-Switching Texts: Building an Automatic Cyrillic-to-Latin Converter for Tatar [[Paper]](./assets/pdf/CALCS_CR.pdf) [[Slides]](./assets/pdf/CALCS_Slides.pdf). \\

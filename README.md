@@ -10,3 +10,12 @@ From August 2022 I will join the NLP group led by Dr. David Chiang at the Univer
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
 - [Presentations / Publications](./pub.md)
+
+## Interests
+- Linguitics
+    - Turkic (Tatar)
+    - Theoretical syntax
+    - Language documentation
+- Natural Language Processing
+    - Low-resource languages
+    - Corpus

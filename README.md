@@ -18,4 +18,4 @@ From August 2022 I will join the NLP group led by Dr. David Chiang at the Univer
     - Language documentation
 - Natural Language Processing
     - Low-resource languages
-    - Corpus
+    - Corpus (Universal Dependencies)

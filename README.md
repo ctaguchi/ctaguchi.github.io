@@ -1,4 +1,8 @@
-# About
+---
+layout: default
+---
+
+## About
 
 I'm Chihiro Taguchi, a full-time language lover.
 I am currently pursuing two master's programs:
@@ -7,6 +11,6 @@ I am currently pursuing two master's programs:
 
 From August 2022 I will join the NLP group led by Dr. David Chiang at the University of Notre Dame. <br />
 
-# Quick links
+## Quick links
 - [CV](./assets/pdf/CV.pdf)
 - [Presentations / Publications](./pub.md)

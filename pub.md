@@ -19,11 +19,11 @@ Proceedings of the 164th Conference of the Linguistic Society of Japan.
 - **Chihiro Taguchi**. (2021). Mermaid Construction in Tatar [[Paper]](./assets/pdf/LSJ162_Paper.pdf). \\
 Proceedings of the 162nd Conference of the Linguistic Society of Japan.
 
-- **Chihiro Taguchi**, Yusuke Sakai, and Taro Watanabe. (2021). Transliteration for Low-Resource Code-Switching Texts: Building an Automatic Cyrillic-to-Latin Converter for Tatar [[Paper]](./assets/pdf/CALCS_CR.pdf). \\
+- **Chihiro Taguchi**, Yusuke Sakai, and Taro Watanabe. (2021). Transliteration for Low-Resource Code-Switching Texts: Building an Automatic Cyrillic-to-Latin Converter for Tatar [[Paper]](./assets/pdf/CALCS_CR.pdf) [[Slides]](./assets/pdf/CALCS_Slides.pdf). \\
 Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching, North American Chapter of the Association for Computational Linguis-
 tics.
 
-- **Chihiro Taguchi** and Taro Watanabe. (2021). So-Called “Prepositions” in Somali are Not Prepositions: A Linguistic Approach for Somali POS Tagging. \\
+- **Chihiro Taguchi** and Taro Watanabe. (2021). So-Called “Prepositions” in Somali are Not Prepositions: A Linguistic Approach for Somali POS Tagging [[Paper]](./pdf/ANLP2021final.pdf). \\
 Proceedings of the Annual Meeting of the Association of Natural Language Processing.
 
 - **Chihiro Taguchi**. (2020). Raising to Quirky Subject in Tatar. \\
@@ -40,5 +40,5 @@ Proceedings of the 159th Conference of the Linguistic Society of Japan.
 - **Chihiro Taguchi**. (2022). Mermaid Construction as raising with a nominal predicate. \\
 The 74th Language Lunch At Edinburgh. Online.
 
-- **Chihiro Taguchi**. (2021). Text Processing of Open-Access Jinghpaw Data on Google Colaboratory. \\
-Follow-up meeting on Intensive Language Course 2019 (Jinghpaw) / The 3rd meeting on Kachin studies. ILCAA, TUFS. Online. 
+- **Chihiro Taguchi**. (2021). Text Processing of Open-Access Jinghpaw Data on Google Colaboratory [[Slides]](./assets/pdf/Jinghpaw_followup_Taguchi.pdf). \\
+2nd Follow-up meeting on Intensive Language Course 2019 (Jinghpaw) / The 3rd meeting on Kachin studies. ILCAA, TUFS. Online. 

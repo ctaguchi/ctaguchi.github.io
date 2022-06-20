@@ -26,14 +26,14 @@ tics.
 - **Chihiro Taguchi** and Taro Watanabe. (2021). So-Called “Prepositions” in Somali are Not Prepositions: A Linguistic Approach for Somali POS Tagging [[Paper]](./pdf/ANLP2021final.pdf) [[Slides]](./assets/pdf/ANLP2021_Slides.pdf). \\
 Proceedings of the Annual Meeting of the Association of Natural Language Processing.
 
-- **Chihiro Taguchi**. (2020). Raising to Quirky Subject in Tatar [[Paper]](./assets/pdf/A-2_161.pdf). \\
+- **Chihiro Taguchi**. (2020). Raising to Quirky Subject in Tatar [[Paper]](./assets/pdf/A-2_161.pdf) [[Slides]](./assets/pdf/LSJ161_Slides.pdf). \\
 Proceedings of the 161st Conference of the Linguistic Society of Japan.
 
-- **Chihiro Taguchi**. (2019). Vowel Harmonies in Kazan Tatar: Element Theoretical Approach [[Paper]](./assets/pdf/C-7_159.pdf). \\
+- **Chihiro Taguchi**. (2019). Vowel Harmonies in Kazan Tatar: Element Theoretical Approach [[Paper]](./assets/pdf/C-7_159.pdf) [[Slides]](./assets/pdf/LSJ159_Slides.pdf). \\
 Proceedings of the 159th Conference of the Linguistic Society of Japan.
 
 - **Chihiro Taguchi**. (2018). 近現代における言語衰退過程の観察と考察 —琉球語宮古池間方言を事例に— [[Paper]](./assets/pdf/Seijigakukenkyu_miyako.pdf). \\
-政治学研究 [Studies in Political Science], 2018. Keio University Press.
+*政治学研究* [Studies in Political Science]. Keio University Press.
 
 # Talks
 

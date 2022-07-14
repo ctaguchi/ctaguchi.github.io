@@ -7,6 +7,9 @@ I am currently pursuing two master's programs:
 
 From August 2022 I will join the NLP group led by Dr. David Chiang at the University of Notre Dame. <br />
 
+## For LFG22 Participants
+You can find my slides from [Presentations / Publications](./pub.md)
+
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
 - [Presentations / Publications](./pub.md)

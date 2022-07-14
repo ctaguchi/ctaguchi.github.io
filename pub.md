@@ -6,7 +6,7 @@ layout: default
 - **Chihiro Taguchi**. (2022). Consistent Grammatical Annotation of Turkic Languages for more universal Universal Dependencies. \\
 Workshop on Computational Linguistics on East Asian languages, 29th International Conference on Head-Driven Phrase Structure Grammar.
 
-- **Chihiro Taguchi**. (2022). Mermaid Construction in Lexical Functional Grammar. \\
+- **Chihiro Taguchi**. (2022). Mermaid Construction in Lexical Functional Grammar. [[Slides]](./assets/pdf/LFG2022_handout_final_Taguchi.pdf)\\
 LFG22: the 27th International Lexical Functional Grammar Conference.
 
 - **Chihiro Taguchi**, Sei Iwata, and Taro Watanabe. (2022). Universal Dependencies Treebank for Tatar: Incorporating Intra-Word

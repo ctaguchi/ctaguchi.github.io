@@ -22,3 +22,8 @@ You can find my slides from [Presentations / Publications](./pub.md)
 - Natural Language Processing
     - Low-resource languages
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
+
+## Contact
+Edinburgh: c.[ my surname ] at sms.ed.ac.uk \\
+I'm graduating from Edinburgh soon (hopefully!), so I'm gradually switching to the next institution's email: \\
+Notre Dame: c[ my surname ] at nd.edu

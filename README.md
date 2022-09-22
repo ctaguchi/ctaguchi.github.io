@@ -1,21 +1,16 @@
 ## About
 
 I'm Chihiro Taguchi, a full-time language lover.
-I am currently pursuing two master's programs:
-- MA in Information Science and Engineering at [Nara Institute of Science and Technology](http://www.naist.jp/en/), Japan
-- MSc by Research in Linguistics at [the University of Edinburgh](https://www.ed.ac.uk/), UK
-
-From August 2022 I will join the NLP group led by Dr. David Chiang at the University of Notre Dame. <br />
-
-## For LFG22 Participants
-You can find my slides from [Presentations / Publications](./pub.md)
+I'm a PhD student in Computater Science and Engineering (CSE) at the [University of Notre Dame](https://nd.edu), USA,
+as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr. David Chiang.
+<br />
 
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
 - [Presentations / Publications](./pub.md)
 
 ## Interests
-- Linguitics
+- Linguistics
     - Turkic (Tatar)
     - Theoretical syntax
     - Language documentation
@@ -24,6 +19,4 @@ You can find my slides from [Presentations / Publications](./pub.md)
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
 
 ## Contact
-Edinburgh: c.[ my surname ] at sms.ed.ac.uk \\
-I'm graduating from Edinburgh soon (hopefully!), so I'm gradually switching to the next institution's email: \\
 Notre Dame: c[ my surname ] at nd.edu

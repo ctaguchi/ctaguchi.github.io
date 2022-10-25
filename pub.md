@@ -32,7 +32,7 @@ Proceedings of the 161st Conference of the Linguistic Society of Japan.
 - **Chihiro Taguchi**. (2019). Vowel Harmonies in Kazan Tatar: Element Theoretical Approach [[Paper]](./assets/pdf/C-7_159.pdf) [[Slides]](./assets/pdf/LSJ159_Slides.pdf). \\
 Proceedings of the 159th Conference of the Linguistic Society of Japan.
 
-- **Chihiro Taguchi**. (2018). 近現代における言語衰退過程の観察と考察 —琉球語宮古池間方言を事例に— [[Paper]](./assets/pdf/Seijigakukenkyu_miyako.pdf). \\
+- **Chihiro Taguchi**. (2018). 近現代における言語衰退過程の観察と考察 —琉球語宮古池間方言を事例に— [[Paper]](./assets/pdf/Seijigakukenkyu_Miyako.pdf). \\
 *政治学研究* [Studies in Political Science]. Keio University Press.
 
 # Talks

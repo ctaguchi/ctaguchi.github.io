@@ -21,6 +21,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Computational morphology
 
 ## News
+- (October 29, 2022) [Slides](./assets/pdf/LFG_SE.pdf) for my presentation at the 33rd South of England LFG Meeting.
 - (October 13, 2022) I received my Master's degree in Linguistics by Research with <b>Distinction</b> from the University of Edinburgh!
 My master's thesis is available from [here](./assets/pdf/MScR_dissertation_final.pdf) (Sorry for silly typos in there).
 

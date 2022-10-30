@@ -6,3 +6,5 @@ tatar_grammar/
 d2l_ja/
 README.txt
 slp_ja/
+.gitignore
+.DS_Store

@@ -3,11 +3,14 @@ layout: default
 ---
 
 # Presentations / Publications
-- **Chihiro Taguchi**, David Chiang. (forthcoming). Introducing Morphology in Universal Dependencies Japanese. The Universal Dependencies Workshop.
+- **Chihiro Taguchi**, David Chiang. (forthcoming). Introducing Morphology in Universal Dependencies Japanese. \\
+The Universal Dependencies Workshop.
 
-- **Chihiro Taguchi**, Parisa Haghani, Yusuke Sakai, Lusine Vanyan. (2023). Building a multilingual speech-to-IPA system. IEEE SLT-Code Hackathon.
+- **Chihiro Taguchi**, Parisa Haghani, Yusuke Sakai, Lusine Vanyan. (2023). Building a multilingual speech-to-IPA system. \\
+IEEE SLT-Code Hackathon.
 
-- **Chihiro Taguchi**. (2022). Mermaid Constructions in Lexical Functional Grammar [[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19). The Proceedings of the LFG'22 Conference.
+- **Chihiro Taguchi**. (2022). Mermaid Constructions in Lexical Functional Grammar [[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19). \\
+The Proceedings of the LFG'22 Conference.
 
 - **Chihiro Taguchi**. (2022). Consistent Grammatical Annotation of Turkic Languages for more universal Universal Dependencies. \\
 Workshop on Computational Linguistics on East Asian languages, 29th International Conference on Head-Driven Phrase Structure Grammar.

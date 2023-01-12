@@ -19,7 +19,6 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Low-resource languages
     - Automatic speech recognition
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
-    - Semantics (interface of Abstract Meaning Representations and linguistic theories)
     - Computational morphology
 - Recent language learning
     - English (endless learning!)

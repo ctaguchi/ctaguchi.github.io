@@ -17,9 +17,9 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Language documentation
 - Natural Language Processing & Computational Linguistics
     - Low-resource languages
-    - Automatic speech recognition
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
     - Computational morphology
+    - Phonetic representation
 - Recent language learning
     - English (endless learning!)
     - Mandarin Chinese

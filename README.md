@@ -6,10 +6,10 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 <br />
 
 ## Quick links
-- [CV](./assets/pdf/CV_simplified.pdf)
+- [CV](./assets/pdf/CV_simplified_jan2023.pdf)
 - [Presentations / Publications](./pub.md)
 
-## Interests
+## Interests.
 - Linguistics
     - Turkic (Tatar)
     - Theoretical syntax (Minimalist syntax, Lexical-Functional Grammar)

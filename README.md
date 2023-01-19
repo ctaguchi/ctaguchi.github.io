@@ -36,3 +36,5 @@ My master's thesis is available from [here](./assets/pdf/MScR_dissertation_final
 
 ## Contact
 Notre Dame: c[ my surname ] at nd.edu
+
+<img width="601" alt="itscalledhymmnosfyi" src="https://user-images.githubusercontent.com/72488381/213342087-609e6bf7-07c2-4a76-b529-710e34e11c1e.png">

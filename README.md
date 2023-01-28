@@ -37,4 +37,8 @@ My master's thesis is available from [here](./assets/pdf/MScR_dissertation_final
 ## Contact
 Notre Dame: c[ my surname ] at nd.edu
 
+## More about me
+- I pronounce my name as [ta˥gɯ˩t͡ɕi̥˩ t͡ɕi̥˩çi˥ɾ̞o˥], since my Japanese does a lot of devoicing. My given name is heiban, just in case if you are familiar with the Japanese accent system.
+- My pronouns are 私/僕/俺. (Just kidding -- but I don't use pronouns to represent my identity because I am against mixing grammatical gender and social/psychological/cultural/behavioral gender.)
+
 <img width="601" alt="itscalledhymmnosfyi" src="https://user-images.githubusercontent.com/72488381/213342087-609e6bf7-07c2-4a76-b529-710e34e11c1e.png">

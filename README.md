@@ -21,12 +21,14 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Computational morphology
     - Phonetic representation
 - Recent language learning
-    - English (endless learning!)
     - Mandarin Chinese
     - Kichwa
     - Spanish
+    - Karaim
+    - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (February 3, 2023) I am now a doctoral student affiliate at the [Kellogg Institute](https://kellogg.nd.edu)!
 - (January 11, 2023) My paper "Introducing Morphology in Universal Dependencies Japanese" has been accepted to the [Universal Dependencies Workshop](https://gurt.georgetown.edu/gurt-2023/udw-call-for-papers/) (UDW2023) at [Georgetown University Round Table](https://gurt.georgetown.edu/gurt-2023/) (GURT2023). See you in Washington D.C.!
 - (January 8, 2023) I presented my project "Building an automatic Speech-to-IPA system" at [IEEE SLT-Code Hackathon](https://slt2022.org/hackathon.php). Check out one of our models [here](https://huggingface.co/ctaguchi/slt-wav2vec2-japlmthu-ipa)!
 - (January 5, 2023) Happy New Year! My first linguistics journal paper has just been published in [The Proceedings of the LFG'22 Conference](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/index).

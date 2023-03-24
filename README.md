@@ -9,7 +9,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 - [CV](./assets/pdf/CV_simplified_mar2023.pdf)
 - [Presentations / Publications](./pub.md)
 
-## Interests.
+## Interests
 - Linguistics
     - Turkic (Tatar)
     - Theoretical syntax (Minimalist syntax, Lexical-Functional Grammar)
@@ -28,7 +28,9 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
-- (March 7, 2023) I am presenting two papers at the Annual Meeting of the Association of Natural Language Processing (NLP2023) in Okinawa, Japan!
+- (March 16, 2023) My poster presentation *Universal Dependencies Japanese with Morphological Features* at the Annual Meeting of the Association for Natural Language Processing (NLP2023) received the *Committee's Honorable Mention*!
+言語処理学会2023の私の発表「形態論情報付きUniversal Dependencies」に対して*委員特別賞*をいただきました。ご興味を持ってくださった皆さん、ありがとうございました。
+- (March 7, 2023) I am presenting two papers at the Annual Meeting of the Association for Natural Language Processing (NLP2023) in Okinawa, Japan!
 言語処理学会2023にて二つのポスター発表を行う予定です。学会参加予定の方はぜひお会いしましょう！
 - (February 3, 2023) I am now a doctoral student affiliate at the [Kellogg Institute](https://kellogg.nd.edu)!
 - (January 11, 2023) My paper "Introducing Morphology in Universal Dependencies Japanese" has been accepted to the [Universal Dependencies Workshop](https://gurt.georgetown.edu/gurt-2023/udw-call-for-papers/) (UDW2023) at [Georgetown University Round Table](https://gurt.georgetown.edu/gurt-2023/) (GURT2023). See you in Washington D.C.!

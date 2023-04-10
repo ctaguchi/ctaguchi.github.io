@@ -6,7 +6,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 <br />
 
 ## Quick links
-- [CV](./assets/pdf/CV_simplified_mar2023.pdf)
+- [CV](./assets/pdf/CV_simplified_apr2023.pdf)
 - [Presentations / Publications](./pub.md)
 
 ## Interests

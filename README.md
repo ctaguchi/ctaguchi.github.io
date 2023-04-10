@@ -28,6 +28,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (March 29, 2023) My paper "Japanese gapless relativization: The syntax–prosody interface to semantics" was accepted to the LFG23 Conference! 
 - (March 16, 2023) My poster presentation *Universal Dependencies Japanese with Morphological Features* at the Annual Meeting of the Association for Natural Language Processing (NLP2023) received the *Committee's Honorable Mention*!
 言語処理学会2023の私の発表「形態論情報付きUniversal Dependencies」に対して*委員特別賞*をいただきました。ご興味を持ってくださった皆さん、ありがとうございました。
 - (March 7, 2023) I am presenting two papers at the Annual Meeting of the Association for Natural Language Processing (NLP2023) in Okinawa, Japan!

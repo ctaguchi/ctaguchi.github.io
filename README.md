@@ -6,7 +6,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 <br />
 
 ## Quick links
-- [CV](./assets/pdf/CV_simplified_apr2023.pdf)
+- [CV](./assets/pdf/CV_compact_may2023.pdf)
 - [Presentations / Publications](./pub.md)
 
 ## Interests
@@ -24,10 +24,12 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Mandarin Chinese
     - Kichwa
     - Spanish
-    - Karaim
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (May 17, 2023) My paper "Universal automatic phonetic transcription into the International Phonetic Alphabet" was accepted to INTERSPEECH 2023. See you in Dublin!
+- (May 15, 2023) I started my fieldwork on the Kichwa language in Quito, Ecuador, with generous support by the [Center for the Study of Languages and Cultures](https://cslc.nd.edu/). I am preparing language resources for computational and educational use, as well as investigating some interesting grammatical phenomena in Kichwa. Stay tuned!
+- (May 8, 2023) My paper "Grammaticalization of modal nominal predicates in Tatar" was accepted to the 21st International Conference of Turkic Linguistics!
 - (March 29, 2023) My paper "Japanese gapless relativization: The syntax–prosody interface to semantics" was accepted to the LFG23 Conference! 
 - (March 16, 2023) My poster presentation *Universal Dependencies Japanese with Morphological Features* at the Annual Meeting of the Association for Natural Language Processing (NLP2023) received the *Committee's Honorable Mention*!
 言語処理学会2023の私の発表「形態論情報付きUniversal Dependencies」に対して*委員特別賞*をいただきました。ご興味を持ってくださった皆さん、ありがとうございました。

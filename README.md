@@ -27,6 +27,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (June 16, 2023) I will be attending the Linguistic Institute organized by Linguistic Society America at the University of Massachusetts, Amherst, for four weeks, with generous support by the Kellogg Institute!
 - (May 17, 2023) My paper "Universal automatic phonetic transcription into the International Phonetic Alphabet" was accepted to INTERSPEECH 2023. See you in Dublin!
 - (May 15, 2023) I started my fieldwork on the Kichwa language in Quito, Ecuador, with generous support by the [Center for the Study of Languages and Cultures](https://cslc.nd.edu/). I am preparing language resources for computational and educational use, as well as investigating some interesting grammatical phenomena in Kichwa. Stay tuned!
 - (May 8, 2023) My paper "Grammaticalization of modal nominal predicates in Tatar" was accepted to the 21st International Conference of Turkic Linguistics!

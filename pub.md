@@ -12,10 +12,10 @@ INTERSPEECH 2023.
 1. **Chihiro Taguchi**. forthcoming. Japanese gapless relativization: The syntax–prosody interface to semantics. \\
 LFG23: The 28th International Lexical Functional Grammar Conference.
 
-1. So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. (2023). 沖縄語のUniversal Dependenciesツリーバクコーパスの構築. \\
+1. So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. (2023). 沖縄語のUniversal Dependenciesツリーバンクコーパスの構築. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-8.pdf) \\
 言語処理学会第29回年次大会.
 
-1. **Chihiro Taguchi**, So Miyagawa. (2023). 形態論情報付き日本語Universal Dependencies. \\
+1. **Chihiro Taguchi**, So Miyagawa. (2023). 形態論情報付き日本語Universal Dependencies. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-6.pdf) \\
 言語処理学会第29回年次大会（委員特別賞受賞）.
 
 1. **Chihiro Taguchi**, David Chiang. (forthcoming). Introducing Morphology in Universal Dependencies Japanese. \\

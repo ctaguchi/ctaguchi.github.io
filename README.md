@@ -1,4 +1,4 @@
-## About
+ ## About
 
 I'm Chihiro Taguchi, a full-time language lover.
 I'm a PhD student in Computer Science and Engineering (CSE) at the [University of Notre Dame](https://nd.edu), USA,
@@ -27,6 +27,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (July 12, 2023) I will present my poster "Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa" at the LSA Institute.
 - (June 16, 2023) I will be attending the Linguistic Institute organized by Linguistic Society America at the University of Massachusetts, Amherst, for four weeks, with generous support by the Kellogg Institute!
 - (May 17, 2023) My paper "Universal automatic phonetic transcription into the International Phonetic Alphabet" was accepted to INTERSPEECH 2023. See you in Dublin!
 - (May 15, 2023) I started my fieldwork on the Kichwa language in Quito, Ecuador, with generous support by the [Center for the Study of Languages and Cultures](https://cslc.nd.edu/). I am preparing language resources for computational and educational use, as well as investigating some interesting grammatical phenomena in Kichwa. Stay tuned!
@@ -46,8 +47,5 @@ My master's thesis is available from [here](./assets/pdf/MScR_dissertation_final
 
 ## Contact
 Notre Dame: c[ my surname ] at nd.edu
-
-## More about me
-- I pronounce my name as [ta˥gɯ˩t͡ɕi̥˩ t͡ɕi̥˩çi̥˥ɾ̞o˥], since my Japanese does a lot of devoicing.
 
 <img width="601" alt="itscalledhymmnosfyi" src="https://user-images.githubusercontent.com/72488381/213342087-609e6bf7-07c2-4a76-b529-710e34e11c1e.png">

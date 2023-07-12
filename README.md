@@ -1,4 +1,4 @@
- ## About
+## About
 
 I'm Chihiro Taguchi, a full-time language lover.
 I'm a PhD student in Computer Science and Engineering (CSE) at the [University of Notre Dame](https://nd.edu), USA,

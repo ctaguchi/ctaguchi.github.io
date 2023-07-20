@@ -12,22 +12,25 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 ## Interests
 - Linguistics
     - Turkic (Tatar)
-    - Theoretical syntax (Minimalist syntax, Lexical-Functional Grammar)
+    - Theoretical syntax (Minimalism, Lexical-Functional Grammar)
     - Morphology, Formal semantics, Phonology
     - Language documentation
 - Natural Language Processing & Computational Linguistics
     - Low-resource languages
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
     - Computational morphology
-    - Phonetic representation
+    - Speech recognition
 - Recent language learning
     - Mandarin Chinese
     - Kichwa
     - Spanish
+    - Japanese Sign Language
+    - American Sign Language
     - Let me know if you are interested in language exchange with me. 
 
 ## News
-- (July 12, 2023) I will present my poster "Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa" at the LSA Institute.
+- (July 20, 2023) I will give an online talk titled ``Bridging Natural Language Processing and Descriptive Linguistics with Universal Dependencies'' at the Field Linguistics Workshop hosted by the Tokyo University of Foreign Studies! Details and registration are available here: [Link](https://lingdy.aa-ken.jp/en/news/15787) (The talk will be entirely in Japanese).
+- (July 12, 2023) I will present my poster "Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa" at the LSA Institute. [Poster](./assets/pdf/LSA poster Kichwa langdoc revised.pdf)
 - (June 16, 2023) I will be attending the Linguistic Institute organized by Linguistic Society America at the University of Massachusetts, Amherst, for four weeks, with generous support by the Kellogg Institute!
 - (May 17, 2023) My paper "Universal automatic phonetic transcription into the International Phonetic Alphabet" was accepted to INTERSPEECH 2023. See you in Dublin!
 - (May 15, 2023) I started my fieldwork on the Kichwa language in Quito, Ecuador, with generous support by the [Center for the Study of Languages and Cultures](https://cslc.nd.edu/). I am preparing language resources for computational and educational use, as well as investigating some interesting grammatical phenomena in Kichwa. Stay tuned!

@@ -9,8 +9,11 @@ INTERSPEECH 2023.
 1. **Chihiro Taguchi**. forthcoming. Grammaticalization of modal nominal predicates in Tatar. \\
 21st International Conference on Turkic Linguistics.
 
-1. **Chihiro Taguchi**. forthcoming. Japanese gapless relativization: The syntax–prosody interface to semantics. \\
+1. **Chihiro Taguchi**. forthcoming. Japanese gapless relativization: The syntax–prosody interface to semantics. [[Poster]](./assets/pdf/LFG23_Poster.pdf) \\
 LFG23: The 28th International Lexical Functional Grammar Conference.
+
+1. **Chihiro Taguchi**. (2023). Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa. [[Poster]](./assets/pdf/LSA_Institute2023_poster.pdf) \\
+LSA Institute 2023.
 
 1. So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. (2023). 沖縄語のUniversal Dependenciesツリーバンクコーパスの構築. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-8.pdf) \\
 言語処理学会第29回年次大会.
@@ -44,8 +47,7 @@ Proceedings of the 164th Conference of the Linguistic Society of Japan.
 Proceedings of the 162nd Conference of the Linguistic Society of Japan.
 
 1. **Chihiro Taguchi**, Yusuke Sakai, and Taro Watanabe. (2021). Transliteration for Low-Resource Code-Switching Texts: Building an Automatic Cyrillic-to-Latin Converter for Tatar [[Paper]](./assets/pdf/CALCS_CR.pdf) [[Slides]](./assets/pdf/CALCS_Slides.pdf). \\
-Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching, North American Chapter of the Association for Computational Linguis-
-tics.
+Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching, North American Chapter of the Association for Computational Linguistics.
 
 1. **Chihiro Taguchi** and Taro Watanabe. (2021). So-Called “Prepositions” in Somali are Not Prepositions: A Linguistic Approach for Somali POS Tagging [[Paper]](./pdf/ANLP2021final.pdf) [[Slides]](./assets/pdf/ANLP2021_Slides.pdf). \\
 Proceedings of the Annual Meeting of the Association of Natural Language Processing.

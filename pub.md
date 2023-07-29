@@ -21,7 +21,7 @@ LSA Institute 2023.
 1. **Chihiro Taguchi**, So Miyagawa. (2023). 形態論情報付き日本語Universal Dependencies. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-6.pdf) \\
 言語処理学会第29回年次大会（委員特別賞受賞）.
 
-1. **Chihiro Taguchi**, David Chiang. (forthcoming). Introducing Morphology in Universal Dependencies Japanese. \\
+1. **Chihiro Taguchi**, David Chiang. (2023). Introducing Morphology in Universal Dependencies Japanese. [[Paper]](https://aclanthology.org/2023.udw-1.8/) \\
 The Universal Dependencies Workshop.
 
 1. **Chihiro Taguchi**, Parisa Haghani, Yusuke Sakai, Lusine Vanyan. (2023). Building a multilingual speech-to-IPA system. \\
@@ -33,7 +33,7 @@ The Proceedings of the LFG'22 Conference.
 1. **Chihiro Taguchi**. (2022). Consistent Grammatical Annotation of Turkic Languages for more universal Universal Dependencies. \\
 Workshop on Computational Linguistics on East Asian languages, 29th International Conference on Head-Driven Phrase Structure Grammar.
 
-1. **Chihiro Taguchi**. (2022). Mermaid Construction in Lexical Functional Grammar. [[Slides]](./assets/pdf/LFG2022_handout_final_Taguchi.pdf)\\
+1. **Chihiro Taguchi**. (2022). Mermaid Construction in Lexical Functional Grammar. [[Slides]](./assets/pdf/LFG2022_handout_final_Taguchi.pdf) \\
 LFG22: the 27th International Lexical Functional Grammar Conference.
 
 1. **Chihiro Taguchi**, Sei Iwata, and Taro Watanabe. (2022). Universal Dependencies Treebank for Tatar: Incorporating Intra-Word

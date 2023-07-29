@@ -31,8 +31,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 ## News
 - (July 26, 2023) I gave an online talk titled "Bridging Natural Language Processing and Descriptive Linguistics with Universal Dependencies" at the [Field Linguistics Workshop](https://lingdy.aa-ken.jp/en/news/15787) hosted by the [Tokyo University of Foreign Studies](http://www.tufs.ac.jp/english/). My slides are available [here](./assets/pdf/UD_langdoc.pdf) (in Japanese).
 - (July 23, 2023) I presented my poster "Japanese gapless relativization: The syntax–prosody interface to semantics" at the [28th Annual Lexical-Functional Grammar Conference](https://sas.rochester.edu/cls/lfg23/).
-- (July 14, 2023) I presented my poster "[Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa](./assets/pdf/LSA_Institut\
-e2023_poster.pdf)" at the LSA Institute.
+- (July 14, 2023) I presented my poster "[Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa](./assets/pdf/LSA_Institute2023_poster.pdf)" at the LSA Institute.
 - (June 16, 2023) I am attending the Linguistic Institute organized by Linguistic Society America at the University of Massachusetts, Amherst, for four weeks, with generous support by the Kellogg Institute.
 - (May 17, 2023) My paper "Universal automatic phonetic transcription into the International Phonetic Alphabet" was accepted to INTERSPEECH 2023. See you in Dublin!
 - (May 15, 2023) I started my fieldwork on the Kichwa language in Quito, Ecuador, with generous support by the [Center for the Study of Languages and Cultures](https://cslc.nd.edu/). I am preparing language resources for computational and educational use, as well as investigating some interesting grammatical phenomena in Kichwa. Stay tuned!

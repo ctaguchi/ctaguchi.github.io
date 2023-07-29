@@ -23,7 +23,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 - Recent language learning
     - Mandarin Chinese
     - Kichwa
-    - Spanish
+    - Spanish (My Anki deck for 5000 Spanish words!: [Download](./assets/anki/Spanish.apkg))
     - Japanese Sign Language
     - American Sign Language
     - Let me know if you are interested in language exchange with me. 

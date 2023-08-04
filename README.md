@@ -6,6 +6,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 <br />
 
 ## Quick links
+- To ICTL participants: [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf)
 - [CV](./assets/pdf/CV.pdf)
 - [Presentations / Publications](./pub.md)
 

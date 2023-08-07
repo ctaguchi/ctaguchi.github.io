@@ -6,7 +6,6 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 <br />
 
 ## Quick links
-- To ICTL participants: [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf)
 - [CV](./assets/pdf/CV.pdf)
 - [Presentations / Publications](./pub.md)
 
@@ -30,6 +29,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (August 4, 2023) I presented my work "Grammaticalization of modal nominal predicates in Tatar" at the [21st International Conference on Turkish Linguistics](https://ictl.uni-mainz.de/)! [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf)
 - (July 26, 2023) I gave an online talk titled "Bridging Natural Language Processing and Descriptive Linguistics with Universal Dependencies" at the [Field Linguistics Workshop](https://lingdy.aa-ken.jp/en/news/15787) hosted by the [Tokyo University of Foreign Studies](http://www.tufs.ac.jp/english/). My slides are available [here](./assets/pdf/UD_langdoc.pdf) (in Japanese).
 - (July 23, 2023) I presented my poster "Japanese gapless relativization: The syntax–prosody interface to semantics" at the [28th Annual Lexical-Functional Grammar Conference](https://sas.rochester.edu/cls/lfg23/).
 - (July 14, 2023) I presented my poster "[Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa](./assets/pdf/LSA_Institute2023_poster.pdf)" at the LSA Institute.

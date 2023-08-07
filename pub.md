@@ -6,10 +6,10 @@ layout: default
 1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. forthcoming. Automatic Phonetic Transcription into the International Phonetic Alphabet. \\
 INTERSPEECH 2023.
 
-1. **Chihiro Taguchi**. forthcoming. Grammaticalization of modal nominal predicates in Tatar. \\
-21st International Conference on Turkic Linguistics.
+1. **Chihiro Taguchi**. (2023). Grammaticalization of modal nominal predicates in Tatar. [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf) \\
+21st International Conference on Turkish Linguistics.
 
-1. **Chihiro Taguchi**. forthcoming. Japanese gapless relativization: The syntax–prosody interface to semantics. [[Poster]](./assets/pdf/LFG23_Poster.pdf) \\
+1. **Chihiro Taguchi**. (2023). Japanese gapless relativization: The syntax–prosody interface to semantics. [[Poster]](./assets/pdf/LFG23_Poster.pdf) \\
 LFG23: The 28th International Lexical Functional Grammar Conference.
 
 1. **Chihiro Taguchi**. (2023). Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa. [[Poster]](./assets/pdf/LSA_Institute2023_poster.pdf) \\

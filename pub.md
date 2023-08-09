@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Presentations / Publications
-1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. forthcoming. Automatic Phonetic Transcription into the International Phonetic Alphabet. \\
+1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. forthcoming. Automatic Phonetic Transcription into the International Phonetic Alphabet. [[Paper]](https://arxiv.org/abs/2308.03917) \\
 INTERSPEECH 2023.
 
 1. **Chihiro Taguchi**. (2023). Grammaticalization of modal nominal predicates in Tatar. [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf) \\

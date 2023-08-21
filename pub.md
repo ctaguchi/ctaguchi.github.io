@@ -62,6 +62,8 @@ Proceedings of the 159th Conference of the Linguistic Society of Japan.
 *政治学研究* [Studies in Political Science]. Keio University Press.
 
 # Talks
+- **Chihiro Taguchi**. (2023). 自然言語処理と記述言語研究のインターフェイス：Universal Dependencies のすすめ (Bridging Natural Language Processing and Descriptive Linguistics with Universal Dependencies). [[Slides]](./assets/pdf/UD_langdoc.pdf). \\
+Field Linguistics Workshop: Grammatical Studies Workshops 23 "Grammatical Studies and Digital Humanities (2)". ILCAA, TUFS. Online. 
 
 - **Chihiro Taguchi**. (2022). Mermaid Construction as raising with a nominal predicate [[Slides]](./assets/pdf/Edinburgh_Language_Lunch_Taguchi.pdf). \\
 The 74th Language Lunch At Edinburgh. Online.

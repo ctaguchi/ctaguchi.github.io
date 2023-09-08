@@ -29,7 +29,8 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
-- (August 22, 2023) I am presenting a poster "Universal automatic phonetic transcription into the International Phonetic Alphabet" at [INTERSPEECH 2023](https://interspeech2023.org/)!
+- (September 8, 2023) I gave a talk "UD-Tatar NMCTT Treebank: Issues in Annotation across Turkic UD" at the Turkic UD Workshop! [[Slides]](./assets/pdf/UDTurkic2023_Slides.pdf)
+- (August 22, 2023) I presented a poster "Universal automatic phonetic transcription into the International Phonetic Alphabet" at [INTERSPEECH 2023](https://interspeech2023.org/)!
 - (August 4, 2023) I presented my work "Grammaticalization of modal nominal predicates in Tatar" at the [21st International Conference on Turkish Linguistics](https://ictl.uni-mainz.de/)! [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf)
 - (July 26, 2023) I gave an online talk titled "Bridging Natural Language Processing and Descriptive Linguistics with Universal Dependencies" at the [Field Linguistics Workshop](https://lingdy.aa-ken.jp/en/news/15787) hosted by the [Tokyo University of Foreign Studies](http://www.tufs.ac.jp/english/). My slides are available [here](./assets/pdf/UD_langdoc.pdf) (in Japanese).
 - (July 23, 2023) I presented my poster "Japanese gapless relativization: The syntax–prosody interface to semantics" at the [28th Annual Lexical-Functional Grammar Conference](https://sas.rochester.edu/cls/lfg23/).

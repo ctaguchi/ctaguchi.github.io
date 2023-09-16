@@ -23,12 +23,13 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 - Recent language learning
     - Mandarin Chinese
     - Kichwa
-    - Spanish (My Anki deck for 5000 Spanish words!: [Download](./assets/anki/Spanish.apkg))
-    - Japanese Sign Language
+    - Spanish (My Spanish–Japanese Anki deck for frequent 5000 words!: [Download](./assets/anki/Spanish.apkg))
     - American Sign Language
+    - Kreyòl Ayisyen
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (September 16, 2023) I gave an informal presentation in our NLP group's meeting about my recent research updates in linguistics (syntax). I personally think the idea is cool and exciting, so I share my handout here: [[handout]](./assets/pdf/AME_NLP_reading_group.pdf)
 - (September 8, 2023) I gave a talk "UD-Tatar NMCTT Treebank: Issues in Annotation across Turkic UD" at the Turkic UD Workshop! [[Slides]](./assets/pdf/UDTurkic2023_Slides.pdf)
 - (August 22, 2023) I presented a poster "Universal automatic phonetic transcription into the International Phonetic Alphabet" at [INTERSPEECH 2023](https://interspeech2023.org/)!
 - (August 4, 2023) I presented my work "Grammaticalization of modal nominal predicates in Tatar" at the [21st International Conference on Turkish Linguistics](https://ictl.uni-mainz.de/)! [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf)

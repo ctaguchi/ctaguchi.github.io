@@ -12,13 +12,13 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 ## Interests
 - Linguistics
     - Turkic (Tatar)
-    - Theoretical syntax (Minimalism, Lexical-Functional Grammar)
-    - Morphology, Formal semantics, Phonology
+    - Syntax (Minimalism, Lexical-Functional Grammar)
+    - Morphology (Distributed Morphology)
     - Language documentation
+    - Anything about languages
 - Natural Language Processing & Computational Linguistics
-    - Low-resource languages
+    - Low-resource NLP
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
-    - Computational morphology
     - Speech recognition
 - Recent language learning
     - Mandarin Chinese
@@ -29,6 +29,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (September 21, 2023) I will present my work "Non-discourse-configurationality in Imbabura Kichwa" in collaboration with Jefferson Saransig at the 2024 LSA Annual Meeting! \\
 - (September 16, 2023) I gave an informal presentation in our NLP group's meeting about my recent research updates in linguistics (syntax). I personally think the idea is cool and exciting, so I share my handout here: [[handout]](./assets/pdf/AME_NLP_reading_group.pdf)
 - (September 8, 2023) I gave a talk "UD-Tatar NMCTT Treebank: Issues in Annotation across Turkic UD" at the Turkic UD Workshop! [[Slides]](./assets/pdf/UDTurkic2023_Slides.pdf)
 - (August 22, 2023) I presented a poster "Universal automatic phonetic transcription into the International Phonetic Alphabet" at [INTERSPEECH 2023](https://interspeech2023.org/)!

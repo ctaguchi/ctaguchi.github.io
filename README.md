@@ -13,7 +13,6 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 - Linguistics
     - Turkic (Tatar)
     - Syntax (Minimalism, Lexical-Functional Grammar)
-    - Morphology (Distributed Morphology)
     - Language documentation
     - Anything about languages
 - Natural Language Processing & Computational Linguistics
@@ -24,12 +23,12 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Mandarin Chinese
     - Kichwa
     - Spanish (My Spanish–Japanese Anki deck for frequent 5000 words!: [Download](./assets/anki/Spanish.apkg))
-    - American Sign Language
     - Kreyòl Ayisyen
     - Let me know if you are interested in language exchange with me. 
 
 ## News
-- (September 21, 2023) I will present my work "Non-discourse-configurationality in Imbabura Kichwa" in collaboration with Jefferson Saransig at the 2024 LSA Annual Meeting! \\
+- (November 17, 2023) Yo voy a presentar mi trabajo "Reconocimiento automático del habla de kichwa para su inclusión y empoderamiento en el ciberespacio" en el VI Seminario Internacional Revitalizando Ando que tendrá lugar en la Universidad Politécnica Salesiana de Quito, Ecuador. (Será mi primera presentación en español!)
+- (September 21, 2023) I will present my work "Non-discourse-configurationality in Imbabura Kichwa" in collaboration with Jefferson Saransig at the 2024 LSA Annual Meeting!
 - (September 16, 2023) I gave an informal presentation in our NLP group's meeting about my recent research updates in linguistics (syntax). I personally think the idea is cool and exciting, so I share my handout here: [[handout]](./assets/pdf/AME_NLP_reading_group.pdf)
 - (September 8, 2023) I gave a talk "UD-Tatar NMCTT Treebank: Issues in Annotation across Turkic UD" at the Turkic UD Workshop! [[Slides]](./assets/pdf/UDTurkic2023_Slides.pdf)
 - (August 22, 2023) I presented a poster "Universal automatic phonetic transcription into the International Phonetic Alphabet" at [INTERSPEECH 2023](https://interspeech2023.org/)!

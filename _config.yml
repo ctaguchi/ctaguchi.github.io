@@ -1,4 +1,9 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Chihiro Taguchi
+author: Chihiro Taguchi
 logo: /assets/img/portrait.jpg
 description: Photo by Kamolchanok Sarisuta.
+google_analytics: G-M5THZQG7L5

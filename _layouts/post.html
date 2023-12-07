@@ -32,8 +32,13 @@
 	</ul>
 	{% endif %}
       </header>
-    <section>
-      <p class="view">By {{ page.author | default: site.author }}, {{ page.date | date: "%-d %B %Y" }}</p>
+      <section>
+	{% if page.date %}
+	<p class="view">By {{ page.author | default: site.author }}, {{ page.date }}</p>
+	{% else %}
+	<p class="view">By {{ page.author | default: site.author }}</p>
+	{% endif %}
+	
       {{ content }}
     </section>
     <footer>

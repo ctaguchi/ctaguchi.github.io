@@ -7,7 +7,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
-- [Presentations / Publications](./pub.md)
+- [LSA 2024 poster presentation data](./assets/pdf/LSA_2024_data.pdf)
 
 ## Interests
 - Linguistics
@@ -27,6 +27,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (January 7, 2024) I'm presenting a poster titled "Non-discourse-configurationality in Imbabura Kichwa" at LSA 2024!
 - (November 17, 2023) Yo voy a presentar mi trabajo "Reconocimiento automático del habla de kichwa para su inclusión y empoderamiento en el ciberespacio" en el VI Seminario Internacional Revitalizando Ando que tendrá lugar en la Universidad Politécnica Salesiana de Quito, Ecuador. (Será mi primera presentación en español!)
 - (September 21, 2023) I will present my work "Non-discourse-configurationality in Imbabura Kichwa" in collaboration with Jefferson Saransig at the 2024 LSA Annual Meeting!
 - (September 16, 2023) I gave an informal presentation in our NLP group's meeting about my recent research updates in linguistics (syntax). I personally think the idea is cool and exciting, so I share my handout here: [[handout]](./assets/pdf/AME_NLP_reading_group.pdf)

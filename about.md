@@ -45,4 +45,22 @@ I have also created the first dataset and the first automatic speech recognition
 ## Linguistics
 In linguistics, I am especially interested in how sentences are structured and how we can describe the structure systematically.
 During my master's in lingustics at Edinburgh, I investigated intriguing constructions found in the Tatar language, a Turkic language mainly spoken in Tatarstan, Russia.
-- Maratqa&nbsp;joqlarğa&nbsp;röxsät<br/>to Marat&nbsp;to sleep&nbsp;permission
+In Tatar, there are noun predicates that can take an infinitival phrase and the (apparent) subject with non-nominative case-marking.
+
+- Maratqa&nbsp;joqlarğa&nbsp;röxsät<br/>to Marat&nbsp;to sleep&nbsp;permission<br/>'Marat is allowed to sleep.' (lit. 'It is a permission to sleep to Marat')
+
+When you look at the literal translation of the Tatar sentence above, it simply does not make sense.
+Also, there are more puzzles in this type of construction.
+First, what is the subject in the sentence? Is it the dative argument, or the infinitival phrase, or there is no subject at all?
+Second, how can a noun like 'permission' have a modal meaning like 'to be allowed, may, can'?
+In many languages including English, such modal expressions are done by auxiliaries, verbs, and adjectives, but why a noun here?
+Third, as far as I know, there are only four or five nouns that can make a sentence like this.
+Why is the construction so lexically restricted?
+I have not found a satisfying answer to these questions yet, but I plan to keep working on them.
+
+In my most recent work, I investigated the (seemingly) free word order of the Kichwa language.
+English has a very rigid order when it comes to the position of a subject (S), an object (O), and a verb (V).
+In contrast, Kichwa allows you to make a sentence in SOV, SVO, VSO, OSV, OVS, and VOS (any order...?).
+The question here is, is Kichwa really a free word order language?
+If so, its syntactic structure would look very flat, unlike the mainstream assumptions made in Minimalist syntax with binary-branching hierarchical syntactic trees.
+If that's actually not the case, how can we account for the syntactic variations of Kichwa with the existing theories?

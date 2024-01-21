@@ -7,7 +7,6 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
-- [LSA 2024 poster presentation data](./assets/pdf/LSA_2024_data.pdf)
 - [About my research](./about.md)
 
 ## Interests

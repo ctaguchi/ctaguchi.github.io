@@ -27,6 +27,8 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (February 20, 2024) Our paper "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" has been accepted at LREC-COLING 2024!
+- (February 20, 2024) Our joint work "J-SNACS: Adposition and Case Supersenses for Japanese Joshi" has been accepted at LREC-COLING 2024!
 - (January 20, 2024) Our joint project "Unifying the Annotations in Turkic Universal Dependencies Treebank" has been accepted at [UniDive 2nd meeting](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:general_meetings:2nd_unidive_general_meeting).
 - (January 10, 2024) Hice una presentación titulada "El conjunto de datos de reconocimiento automático de voz para kichwa" en el Taller [Tecnologías Digitales y Lenguas Indígenas](https://ws.dcc.uchile.cl).
 - (January 7, 2024) I presented a poster titled "Non-discourse-configurationality in Imbabura Kichwa" at the Linguistic Society of America 2024 Annual Meeting. This is a joint work with Jefferson Saransig.

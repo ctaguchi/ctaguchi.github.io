@@ -8,7 +8,6 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
 - [About my research](./about.md)
-- [言語処理学会2024発表スライド](./assets/pdf/NLP2024slides.pdf)
 
 ## Interests
 - Linguistics
@@ -20,6 +19,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Low-resource NLP
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
     - Speech recognition
+    - Machine translation
 - Recent language learning
     - Mandarin Chinese
     - Kichwa
@@ -28,6 +28,8 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me. 
 
 ## News
+- (April 13, 2024) Presenté mi trabajo sobre el reconocimiento automático del habla para el idioma kichwa en la reunión anual de la Alianza Quechua.
+- (March 14, 2024) 言語処理学会2024にて口頭発表しました。[スライド](./assets/pdf/NLP2024slides.pdf)
 - (February 20, 2024) Our paper "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" has been accepted at LREC-COLING 2024!
 - (February 20, 2024) Our joint work "J-SNACS: Adposition and Case Supersenses for Japanese Joshi" has been accepted at LREC-COLING 2024!
 - (January 20, 2024) Our joint project "Unifying the Annotations in Turkic Universal Dependencies Treebank" has been accepted at [UniDive 2nd meeting](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:general_meetings:2nd_unidive_general_meeting).

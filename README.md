@@ -20,15 +20,18 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Corpus ([Universal Dependencies](https://universaldependencies.org/))
     - Speech recognition
     - Machine translation
-- Recent language learning
+- Language learning
     - Mandarin Chinese
     - Kichwa
-    - Spanish (My Spanish–Japanese Anki deck for frequent 5000 words!: [Download](./assets/anki/Spanish.apkg))
+    - Spanish
     - Kreyòl Ayisyen
+    - Thai
     - Let me know if you are interested in language exchange with me. 
 
 ## News
-- (April 13, 2024) Presenté mi trabajo sobre el reconocimiento automático del habla para el idioma kichwa en la reunión anual de la Alianza Quechua.
+- (April 21, 2024) Our joint work "Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet" has been accepted at [SIGMORPHON 2024](https://sigmorphon.github.io/workshops/2024/) at NAACL 2024!
+- (April 13, 2024) Alianza Quechua 2024 tantanakuypi, kichwa shimipak "rimashkata killkak anta"ta ruray proyectomanta rimarkanimi. Presenté mi trabajo sobre el reconocimiento automático del habla para el idioma kichwa en la reunión anual de la Alianza Quechua.
+- (April 2, 2024) Our joint work "Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks" has been accepted at the [Joint Workshop on Multiword Expressions and Universal Dependencies](https://multiword.org/mweud2024/) at LREC-COLING 2024!
 - (March 14, 2024) 言語処理学会2024にて口頭発表しました。[スライド](./assets/pdf/NLP2024slides.pdf)
 - (February 20, 2024) Our paper "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" has been accepted at LREC-COLING 2024!
 - (February 20, 2024) Our joint work "J-SNACS: Adposition and Case Supersenses for Japanese Joshi" has been accepted at LREC-COLING 2024!

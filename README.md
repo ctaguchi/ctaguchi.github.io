@@ -11,18 +11,17 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 
 ## Interests
 - Linguistics
-    - Turkic (Tatar)
+    - Turkic (Tatar), Quechuan (Kichwa)
     - Syntax (Minimalism, Lexical-Functional Grammar)
     - Language documentation
     - Anything about languages
 - Natural Language Processing & Computational Linguistics
     - Low-resource NLP
-    - Corpus ([Universal Dependencies](https://universaldependencies.org/))
+    - Corpus ([Universal Dependencies](https://universaldependencies.org))
     - Speech recognition
     - Machine translation
 - Language learning
     - Mandarin Chinese
-    - Kichwa
     - Spanish
     - Kreyòl Ayisyen
     - Thai

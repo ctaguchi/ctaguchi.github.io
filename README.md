@@ -52,11 +52,13 @@ Feel free to contact me if you are interested in collaborative work with me.
 
 ## News
 - (April 21, 2024) Our joint work "Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet" has been accepted at [SIGMORPHON 2024](https://sigmorphon.github.io/workshops/2024/) at NAACL 2024!
-- (April 13, 2024) Alianza Quechua 2024 tantanakuypi, kichwa shimipak "rimashkata killkak anta"ta ruray proyectomanta rimarkanimi. Presenté mi trabajo sobre el reconocimiento automático del habla para el idioma kichwa en la reunión anual de la Alianza Quechua.
+- (April 16, 2024) I presented my speech-to-IPA project at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days) at the University of Michigan, Ann Arbor.
+- (April 13, 2024) Alianza Quechua 2024 tantanakuypi, kichwa shimipak "rimashkata killkak anta"ta ruray proyectomanta rimarkanimi. Presenté mi trabajo sobre el reconocimiento automático del habla para el idioma kichwa en la reunión anual de la [Alianza Quechua](https://thequechua.org). [[Diapositivas]](./assets/pdf/QA2024slides.pdf)
+- (April 2, 2024) I was awarded the Kellogg Institute Graduate Student Research Grant!
 - (April 2, 2024) Our joint work "Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks" has been accepted at the [Joint Workshop on Multiword Expressions and Universal Dependencies](https://multiword.org/mweud2024/) at LREC-COLING 2024!
 - (March 14, 2024) 言語処理学会2024にて口頭発表しました。[スライド](./assets/pdf/NLP2024slides.pdf)
-- (February 20, 2024) Our paper "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" has been accepted at LREC-COLING 2024!
-- (February 20, 2024) Our joint work "J-SNACS: Adposition and Case Supersenses for Japanese Joshi" has been accepted at LREC-COLING 2024!
+- (February 20, 2024) Our paper "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" has been accepted at LREC-COLING 2024! [[Preprint]](https://arxiv.org/abs/2404.15501)
+- (February 20, 2024) Our joint work "J-SNACS: Adposition and Case Supersenses for Japanese Joshi" has been accepted at LREC-COLING 2024! 
 - (January 20, 2024) Our joint project "Unifying the Annotations in Turkic Universal Dependencies Treebank" has been accepted at [UniDive 2nd meeting](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:general_meetings:2nd_unidive_general_meeting).
 - (January 10, 2024) Hice una presentación titulada "El conjunto de datos de reconocimiento automático de voz para kichwa" en el Taller [Tecnologías Digitales y Lenguas Indígenas](https://ws.dcc.uchile.cl).
 - (January 7, 2024) I presented a poster titled "Non-discourse-configurationality in Imbabura Kichwa" at the Linguistic Society of America 2024 Annual Meeting. This is a joint work with Jefferson Saransig.

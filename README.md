@@ -25,7 +25,30 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Spanish
     - Kreyòl Ayisyen
     - Thai
-    - Let me know if you are interested in language exchange with me. 
+    - Let me know if you are interested in language exchange with me.
+
+
+## Ongoing projects
+Feel free to contact me if you are interested in collaborative work with me.
+### NLP
+- Speech recognition for Kichwa
+- Developing a new speech recognition metrics
+- Speech recognition for speech pathology
+- Speech recognition into IPA
+- Unsupervised morphological alignment
+- Semantic Network of Adposition and Case Supersenses for Japanese (J-SNACS)
+- UD Turkic
+- UD Kichwa
+- Jinghpaw language NLP	toolkit	(machine translation, speech recognition, text classification, language modeling, automatic phonemic annotation)
+- App development for documenting underresourced languages
+
+### Linguistics
+- Modal nominal predicates in Tatar
+- The structure of Japanese numeral classifiers
+- Non-configurationality of Kichwa
+- Double object marking in Kichwa
+- Documentation of Kichwa
+- Discourse structure of Tatar
 
 ## News
 - (April 21, 2024) Our joint work "Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet" has been accepted at [SIGMORPHON 2024](https://sigmorphon.github.io/workshops/2024/) at NAACL 2024!

@@ -51,7 +51,9 @@ Feel free to contact me if you are interested in collaborative work with me.
 - Discourse structure of Tatar
 
 ## News
-- (May 16, 2024) Our paper "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't" was accepted at ACL 2024!
+- (May 22, 2024) I presented my work "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" at [LREC-COLING 2024](https://lrec-coling-2024.org)! [[Kichwa ASR Model]](https://huggingface.co/ctaguchi/killkan_asr) [[Killkan Dataset]](https://huggingface.co/datasets/ctaguchi/killkan) [[Code]](https://github.com/ctaguchi/killkan)
+- (May 16, 2024) Our paper "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't" was accepted at [ACL 2024](https://2024.aclweb.org/)!
+- (May 15, 2024) Our paper "Non-discourse-configurationality in Imbabura Kichwa" has been published in the Proceedings of the Linguistic Society of America. [[Paper]](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5687)
 - (April 21, 2024) Our joint work "Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet" has been accepted at [SIGMORPHON 2024](https://sigmorphon.github.io/workshops/2024/) at [NAACL 2024](https://2024.naacl.org)!
 - (April 16, 2024) I presented my speech-to-IPA project at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days) at the University of Michigan, Ann Arbor.
 - (April 13, 2024) Alianza Quechua 2024 tantanakuypi, kichwa shimipak "rimashkata killkak anta"ta ruray proyectomanta rimarkanimi. Presenté mi trabajo sobre el reconocimiento automático del habla para el idioma kichwa en la reunión anual de la [Alianza Quechua](https://thequechua.org). [[Diapositivas]](./assets/pdf/QA2024slides.pdf)

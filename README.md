@@ -11,46 +11,19 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 
 ## Interests
 - Linguistics
-    - Turkic (Tatar), Quechuan (Kichwa)
+    - Turkic (Tatar), Quechuan (Kichwa), Japonic (Japanese)
     - Syntax (Minimalism, Lexical-Functional Grammar)
     - Language documentation
     - Anything about languages
 - Natural Language Processing & Computational Linguistics
-    - Low-resource NLP
-    - Corpus ([Universal Dependencies](https://universaldependencies.org))
     - Speech recognition
     - Machine translation
 - Language learning
-    - Mandarin Chinese
-    - Spanish
-    - Kreyòl Ayisyen
-    - Thai
+    - Mandarin Chinese, Spanish, Italian, Thai
     - Let me know if you are interested in language exchange with me.
 
-
-## Ongoing projects
-Feel free to contact me if you are interested in collaborative work with me.
-### NLP
-- Speech recognition for Kichwa
-- Developing a new speech recognition metrics
-- Speech recognition for speech pathology
-- Speech recognition into IPA
-- Unsupervised morphological alignment
-- Semantic Network of Adposition and Case Supersenses for Japanese (J-SNACS)
-- UD Turkic
-- UD Kichwa
-- Jinghpaw language NLP	toolkit	(machine translation, speech recognition, text classification, language modeling, automatic phonemic annotation)
-- App development for documenting underresourced languages
-
-### Linguistics
-- Modal nominal predicates in Tatar
-- The structure of Japanese numeral classifiers
-- Non-configurationality of Kichwa
-- Double object marking in Kichwa
-- Documentation of Kichwa
-- Discourse structure of Tatar
-
 ## News
+- (June 21, 2024) I presented my (previously presented) work "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" at [AmericasNLP 2024](https://turing.iimas.unam.mx/americasnlp/2024_workshop.html) hosted at NAACL 2024!
 - (May 22, 2024) I presented my work "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information" at [LREC-COLING 2024](https://lrec-coling-2024.org)! [[Kichwa ASR Model]](https://huggingface.co/ctaguchi/killkan_asr) [[Killkan Dataset]](https://huggingface.co/datasets/ctaguchi/killkan) [[Code]](https://github.com/ctaguchi/killkan)
 - (May 16, 2024) Our paper "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't" was accepted at [ACL 2024](https://2024.aclweb.org/)!
 - (May 15, 2024) Our paper "Non-discourse-configurationality in Imbabura Kichwa" has been published in the Proceedings of the Linguistic Society of America. [[Paper]](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5687)

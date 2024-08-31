@@ -67,4 +67,7 @@ My thesis is [here](./assets/pdf/MScR_dissertation_final.pdf) (Sorry for silly t
 ## Contact
 Notre Dame: c[ my surname ] at nd.edu
 
+## Posts
+- [『罪と罰』](./posts/2024-08-31-crime-and-punishment.md)
+
 <img width="601" alt="itscalledhymmnosfyi" src="https://user-images.githubusercontent.com/72488381/213342087-609e6bf7-07c2-4a76-b529-710e34e11c1e.png">

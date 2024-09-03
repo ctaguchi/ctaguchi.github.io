@@ -6,33 +6,33 @@ layout: default
 1. **Chihiro Taguchi**, David Chiang.
 (2024).
 Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t.
-[[Paper]](https://arxiv.org/abs/2406.09202)
-ACL (main).
+[[Paper]](https://arxiv.org/abs/2406.09202) \\
+ACL 2024 (main). \\
 **Outstanding Paper Award** (~1% of the total submissions), **Senior Area Chair's Award** (<1% of the total submissions)
 
 1. Yuhi Matogawa, Yusuke Sakai, Taro Watanabe, **Chihiro Taguchi**.
 (2024).
 Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet.
-[[Paper]](https://aclanthology.org/2024.sigmorphon-1.9)
+[[Paper]](https://aclanthology.org/2024.sigmorphon-1.9) \\
 Special Interest Group on Computational Morphology and Phonology (SIGMORPHON) at NAACL 2024.
 
 1. **Chihiro Taguchi**, Jefferson Saransig, Dayana Velásquez, David Chiang.
 (2024).
 Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information.
-[[Paper]](https://aclanthology.org/2024.lrec-main.852)
+[[Paper]](https://aclanthology.org/2024.lrec-main.852) \\
 LREC-COLING 2024.
 
 1. Tatsuya Aoyama, **Chihiro Taguchi**, Nathan Schneider.
 (2024).
 J-SNACS: Adposition and Case Supersenses for Japanese Joshi.
-[[Paper]](https://aclanthology.org/2024.lrec-main.839)
+[[Paper]](https://aclanthology.org/2024.lrec-main.839) \\
 LREC-COLING 2024.
 
 1. Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan, **Chihiro Taguchi**.
 (2024).
 Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks.
-[[Paper]](https://aclanthology.org/2024.mwe-1.25)
-Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD), LREC-COLING 2024.
+[[Paper]](https://aclanthology.org/2024.mwe-1.25) \\
+The Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD), LREC-COLING 2024.
 
 1. **Chihiro Taguchi**, Jefferson Saransig.
 (2024).
@@ -40,7 +40,9 @@ Non-discourse-configurationality in Imbabura Kichwa.
 [[Paper]](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5687)
 The Proceedings of the Linguistic Society of America.
 
-1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. (2023). Automatic Phonetic Transcription into the International Phonetic Alphabet. [[Paper]](https://arxiv.org/abs/2308.03917) \\
+1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang.
+(2023).
+Automatic Phonetic Transcription into the International Phonetic Alphabet. [[Paper]](https://arxiv.org/abs/2308.03917) \\
 INTERSPEECH 2023.
 
 1. **Chihiro Taguchi**. (2023). Grammaticalization of modal nominal predicates in Tatar. [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf) \\
@@ -53,7 +55,8 @@ LFG23: The 28th International Lexical Functional Grammar Conference.
 言語処理学会第29回年次大会.
 
 1. **Chihiro Taguchi**, So Miyagawa. (2023). 形態論情報付き日本語Universal Dependencies. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-6.pdf) \\
-言語処理学会第29回年次大会（委員特別賞受賞）.
+言語処理学会第29回年次大会 (The 29th Annual Meeting of the Association for Natural Language Processing).
+**委員特別賞** (Committee's Honorable Mention).
 
 1. **Chihiro Taguchi**, David Chiang. (2023). Introducing Morphology in Universal Dependencies Japanese. [[Paper]](https://aclanthology.org/2023.udw-1.8/) \\
 The Universal Dependencies Workshop.

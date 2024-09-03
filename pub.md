@@ -3,7 +3,44 @@ layout: default
 ---
 
 # Presentations / Publications
-1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. forthcoming. Automatic Phonetic Transcription into the International Phonetic Alphabet. [[Paper]](https://arxiv.org/abs/2308.03917) \\
+1. **Chihiro Taguchi**, David Chiang.
+(2024).
+Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t.
+[[Paper]](https://arxiv.org/abs/2406.09202)
+ACL (main).
+**Outstanding Paper Award** (~1% of the total submissions), **Senior Area Chair's Award** (<1% of the total submissions)
+
+1. Yuhi Matogawa, Yusuke Sakai, Taro Watanabe, **Chihiro Taguchi**.
+(2024).
+Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet.
+[[Paper]](https://aclanthology.org/2024.sigmorphon-1.9)
+Special Interest Group on Computational Morphology and Phonology (SIGMORPHON) at NAACL 2024.
+
+1. **Chihiro Taguchi**, Jefferson Saransig, Dayana Velásquez, David Chiang.
+(2024).
+Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information.
+[[Paper]](https://aclanthology.org/2024.lrec-main.852)
+LREC-COLING 2024.
+
+1. Tatsuya Aoyama, **Chihiro Taguchi**, Nathan Schneider.
+(2024).
+J-SNACS: Adposition and Case Supersenses for Japanese Joshi.
+[[Paper]](https://aclanthology.org/2024.lrec-main.839)
+LREC-COLING 2024.
+
+1. Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan, **Chihiro Taguchi**.
+(2024).
+Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks.
+[[Paper]](https://aclanthology.org/2024.mwe-1.25)
+Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD), LREC-COLING 2024.
+
+1. **Chihiro Taguchi**, Jefferson Saransig.
+(2024).
+Non-discourse-configurationality in Imbabura Kichwa.
+[[Paper]](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5687)
+The Proceedings of the Linguistic Society of America.
+
+1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. (2023). Automatic Phonetic Transcription into the International Phonetic Alphabet. [[Paper]](https://arxiv.org/abs/2308.03917) \\
 INTERSPEECH 2023.
 
 1. **Chihiro Taguchi**. (2023). Grammaticalization of modal nominal predicates in Tatar. [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf) \\
@@ -11,9 +48,6 @@ INTERSPEECH 2023.
 
 1. **Chihiro Taguchi**. (2023). Japanese gapless relativization: The syntax–prosody interface to semantics. [[Poster]](./assets/pdf/LFG23_Poster.pdf) \\
 LFG23: The 28th International Lexical Functional Grammar Conference.
-
-1. **Chihiro Taguchi**. (2023). Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa. [[Poster]](./assets/pdf/LSA_Institute2023_poster.pdf) \\
-LSA Institute 2023.
 
 1. So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. (2023). 沖縄語のUniversal Dependenciesツリーバンクコーパスの構築. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-8.pdf) \\
 言語処理学会第29回年次大会.
@@ -23,9 +57,6 @@ LSA Institute 2023.
 
 1. **Chihiro Taguchi**, David Chiang. (2023). Introducing Morphology in Universal Dependencies Japanese. [[Paper]](https://aclanthology.org/2023.udw-1.8/) \\
 The Universal Dependencies Workshop.
-
-1. **Chihiro Taguchi**, Parisa Haghani, Yusuke Sakai, Lusine Vanyan. (2023). Building a multilingual speech-to-IPA system. \\
-IEEE SLT-Code Hackathon.
 
 1. **Chihiro Taguchi**. (2022). Mermaid Constructions in Lexical Functional Grammar [[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19). \\
 The Proceedings of the LFG'22 Conference.
@@ -62,6 +93,9 @@ Proceedings of the 159th Conference of the Linguistic Society of Japan.
 *政治学研究* [Studies in Political Science]. Keio University Press.
 
 # Talks
+- **Chihiro Taguchi**. (2023). Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa. [[Poster]](./assets/pdf/LSA_Institute2023_poster.pdf) \\
+LSA Institute 2023.
+
 - **Chihiro Taguchi**. (2023). 自然言語処理と記述言語研究のインターフェイス：Universal Dependencies のすすめ (Bridging Natural Language Processing and Descriptive Linguistics with Universal Dependencies). [[Slides]](./assets/pdf/UD_langdoc.pdf). \\
 Field Linguistics Workshop: Grammatical Studies Workshops 23 "Grammatical Studies and Digital Humanities (2)". ILCAA, TUFS. Online. 
 

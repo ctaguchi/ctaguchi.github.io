@@ -24,6 +24,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me.
 
 ## News
+- (September 11, 2024) I gave a talk at the [NLP Colloquium](https://nlp-colloquium-jp.github.io) on my ACL 2024 paper.
 - (August 14, 2024) At [ACL 2024](https://2024.aclweb.org) I received two awards (Outstanding Paper Award and Senior Area Chair's Award) for my paper ["Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't"](https://arxiv.org/abs/2406.09202)!
 - (August 14, 2024) I gave poster and oral presentation at [ACL 2024](https://2024.aclweb.org)! Check out our paper: [arXiv](https://arxiv.org/abs/2406.09202)
 - (July 7, 2024) I completed my first fieldwork in Quito, Ecuador, to research the Kichwa language. The fieldwork involved collecting spoken Kichwa data and analyzing Kichwa morphosyntax.

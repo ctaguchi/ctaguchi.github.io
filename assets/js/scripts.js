@@ -15,7 +15,7 @@ pages = "15493--15503"
     matogawa_etal_2024_japanese: `@inproceedings{matogawa-etal-2024-japanese,
     title = "{J}apanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet",
     author = "Matogawa, Yuhi and Sakai, Yusuke and Watanabe, Taro and Taguchi, Chihiro",
-    editor = {Nicolai, Garrett and Chodroff, Eleanor and Mailhot, Frederic and {\c{C}}{\"o}ltekin, {\c{C}}a{\u{g}}r{\i}},
+    editor = {Nicolai, Garrett and Chodroff, Eleanor and Mailhot, Frederic and {\\c{C}}{\\"o}ltekin, {\\c{C}}a{\\u{g}}r{\\i}},
     booktitle = "Proceedings of the 21st SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology",
     month = jun,
     year = "2024",
@@ -27,7 +27,7 @@ pages = "15493--15503"
 }`,
     taguchi_etal_2024_killkan: `@inproceedings{taguchi-etal-2024-killkan,
     title = "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information",
-    author = "Taguchi, Chihiro and Saransig, Jefferson and Vel{\'a}squez, Dayana and Chiang, David",
+    author = "Taguchi, Chihiro and Saransig, Jefferson and Vel{\\'a}squez, Dayana and Chiang, David",
     editor = "Calzolari, Nicoletta and Kan, Min-Yen and Hoste, Veronique and Lenci, Alessandro and Sakti, Sakriani and Xue, Nianwen",
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
     month = may,
@@ -52,18 +52,18 @@ pages = "15493--15503"
     washington_etal_2024_strategies: `@inproceedings{washington-etal-2024-strategies,
     title = "Strategies for the Annotation of Pronominalised Locatives in {T}urkic {U}niversal {D}ependency Treebanks",
     author = {Washington, Jonathan  and
-      {\c{C}}{\"o}ltekin, {\c{C}}a{\u{g}}r{\i}  and
+      {\\c{C}}{\\"o}ltekin, {\\c{C}}a{\\u{g}}r{\\i}  and
       Akkurt, Furkan  and
       Chontaeva, Bermet  and
       Eslami, Soudabeh  and
       Jumalieva, Gulnura  and
       Kasieva, Aida  and
       Kuzgun, Asl{\i}  and
-      Mar{\c{s}}an, B{\"u}{\c{s}}ra  and
+      Mar{\\c{s}}an, B{\\"u}{\\c{s}}ra  and
       Taguchi, Chihiro},
     editor = {Bhatia, Archna  and
       Bouma, Gosse  and
-      Do{\u{g}}ru{\"o}z, A. Seza  and
+      Do{\\u{g}}ru{\\"o}z, A. Seza  and
       Evang, Kilian  and
       Garcia, Marcos  and
       Giouli, Voula  and

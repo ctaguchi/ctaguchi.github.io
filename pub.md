@@ -24,11 +24,10 @@ Tatsuya Aoyama, **Chihiro Taguchi**, Nathan Schneider. \\
 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024. \\
 [[Paper]](https://aclanthology.org/2024.lrec-main.839) <button class="bibtex-button" onclick="showBibtex('aoyama_etal_2024_jsnacs')">BibTeX</button>
 
-1. Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan, **Chihiro Taguchi**.
-(2024).
-Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks.
-[[Paper]](https://aclanthology.org/2024.mwe-1.25) \\
-The Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD), LREC-COLING 2024.
+1. Strategies for the Annotation of Pronominalised Locatives in Turkic Universal Dependency Treebanks. \\
+Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan, **Chihiro Taguchi**. \\
+The Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) at LREC-COLING, 2024. \\
+[[Paper]](https://aclanthology.org/2024.mwe-1.25) <button class="bibtex-button" onclick="showBibtex('washington_etal_2024_strategies')">BibTeX</button>
 
 1. **Chihiro Taguchi**, Jefferson Saransig.
 (2024).

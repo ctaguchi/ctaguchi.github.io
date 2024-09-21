@@ -36,7 +36,48 @@ pages = "15493--15503"
     publisher = "ELRA and ICCL",
     url = "https://aclanthology.org/2024.lrec-main.852",
     pages = "9753--9763"
-}`    
+}`,
+    aoyama_etal_2024_jsnacs: `@inproceedings{aoyama-etal-2024-j,
+    title = "{J}-{SNACS}: Adposition and Case Supersenses for {J}apanese Joshi",
+    author = "Aoyama, Tatsuya and Taguchi, Chihiro and Schneider, Nathan",
+    editor = "Calzolari, Nicoletta and Kan, Min-Yen and Hoste, Veronique and Lenci, Alessandro and Sakti, Sakriani and Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.839",
+    pages = "9604--9614"
+}`,
+    washington_etal_2024_strategies: `@inproceedings{washington-etal-2024-strategies,
+    title = "Strategies for the Annotation of Pronominalised Locatives in {T}urkic {U}niversal {D}ependency Treebanks",
+    author = {Washington, Jonathan  and
+      {\c{C}}{\"o}ltekin, {\c{C}}a{\u{g}}r{\i}  and
+      Akkurt, Furkan  and
+      Chontaeva, Bermet  and
+      Eslami, Soudabeh  and
+      Jumalieva, Gulnura  and
+      Kasieva, Aida  and
+      Kuzgun, Asl{\i}  and
+      Mar{\c{s}}an, B{\"u}{\c{s}}ra  and
+      Taguchi, Chihiro},
+    editor = {Bhatia, Archna  and
+      Bouma, Gosse  and
+      Do{\u{g}}ru{\"o}z, A. Seza  and
+      Evang, Kilian  and
+      Garcia, Marcos  and
+      Giouli, Voula  and
+      Han, Lifeng  and
+      Nivre, Joakim  and
+      Rademaker, Alexandre},
+    booktitle = "Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) @ LREC-COLING 2024",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.mwe-1.25",
+    pages = "207--219",
+}`
 };
 
 // Function to show BibTeX in modal

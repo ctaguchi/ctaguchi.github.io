@@ -31,13 +31,13 @@ The Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) 
 
 1. Non-discourse-configurationality in Imbabura Kichwa. \\
 **Chihiro Taguchi**, Jefferson Saransig. \\
-The Proceedings of the Linguistic Society of America, Vol. 9 (1). \\
+The Proceedings of the Linguistic Society of America, Vol. 9 (1), 2024. \\
 [[Paper]](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5687) <button class="bibtex-button" onclick="showBibtex('taguchi_saransig_2024_non')">BibTeX</button>
 
-1. **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang.
-(2023).
-Automatic Phonetic Transcription into the International Phonetic Alphabet. [[Paper]](https://arxiv.org/abs/2308.03917) \\
-INTERSPEECH 2023.
+1. Automatic Phonetic Transcription into the International Phonetic Alphabet. \\
+**Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. \\
+INTERSPEECH, 2023. \\
+[[Paper]](https://arxiv.org/abs/2308.03917) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2023_universal')">BibTeX</button> \\
 
 1. **Chihiro Taguchi**. (2023). Grammaticalization of modal nominal predicates in Tatar. [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf) \\
 21st International Conference on Turkish Linguistics.

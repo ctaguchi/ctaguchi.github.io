@@ -86,6 +86,17 @@ const bibtexSnippets = {
     volume = {9},
     number = {1},
     pages = "5687",
+}`,
+    taguchi_etal_2023_universal: String.raw`@inproceedings{taguchi-etal-2023-universal-automatic-phonetic,
+    author = {Taguchi, Chihiro and
+              Sakai, Yusuke and
+              Haghani, Parisa and
+              Chiang, David},
+    title = {Universal Automatic Phonetic Transcription into the {I}nternational {P}honetic {A}lphabet},
+    booktitle = {Proceedings of {INTERSPEECH} 2023},
+    year = {2023},
+    pages = {2548-2552},
+    doi = {10.21437/Interspeech.2023-2584}
 }`
 };
 

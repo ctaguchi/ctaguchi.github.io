@@ -9,6 +9,12 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+section {
+  width:600px;
+  float:right;
+  padding-bottom:50px;
+}
+
 @import "{{ site.theme }}"
 
 /* Custom styles for left column and main content */

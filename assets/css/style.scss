@@ -2,6 +2,13 @@
 ---
 ---
 
+header {
+  width:180px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 @import "{{ site.theme }}"
 
 /* Custom styles for left column and main content */

@@ -1,6 +1,6 @@
 /* assets/js/scripts.js */
 const bibtexSnippets = {
-    taguchi-chiang-2024-language: `@inproceedings{taguchi-chiang-2024-language,
+    taguchi_chiang_2024_language: `@inproceedings{taguchi-chiang-2024-language,
 title = "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn{'}t",
 author = "Taguchi, Chihiro and Chiang, David",
 editor = "Ku, Lun-Wei and Martins, Andre and Srikumar, Vivek",

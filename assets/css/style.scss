@@ -2,7 +2,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* @import "{{ site.theme }}"; */
+@import "jekyll-theme-minimal";
 
 /* Custom styles for left column and main content */
 header {

@@ -3,12 +3,11 @@ layout: default
 ---
 
 # Presentations / Publications
-1. **Chihiro Taguchi**, David Chiang.
-(2024).
-Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t.
-[[Paper]](https://arxiv.org/abs/2406.09202) \\
-ACL 2024 (main). \\
+1. Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t. \\
+**Chihiro Taguchi**, David Chiang. \\
+The Annual Meeting of the Association for Computational Linguistics (ACL 2024) Main. \\
 **Outstanding Paper Award** (~1% of the total submissions), **Senior Area Chair's Award** (<1% of the total submissions)
+[[Paper]](https://arxiv.org/abs/2406.09202) <button class="bibtex-button" onclick="showBibtex('taguchi-chiang-2024-language')">BibTeX</button> \\
 
 1. Yuhi Matogawa, Yusuke Sakai, Taro Watanabe, **Chihiro Taguchi**.
 (2024).
@@ -106,4 +105,18 @@ Field Linguistics Workshop: Grammatical Studies Workshops 23 "Grammatical Studie
 The 74th Language Lunch At Edinburgh. Online.
 
 - **Chihiro Taguchi**. (2021). Text Processing of Open-Access Jinghpaw Data on Google Colaboratory [[Slides]](./assets/pdf/Jinghpaw_followup_Taguchi.pdf). \\
-2nd Follow-up meeting on Intensive Language Course 2019 (Jinghpaw) / The 3rd meeting on Kachin studies. ILCAA, TUFS. Online. 
+2nd Follow-up meeting on Intensive Language Course 2019 (Jinghpaw) / The 3rd meeting on Kachin studies. ILCAA, TUFS. Online.
+
+<!-- Modal structure -->
+<div id="bibtex-modal" class="modal">
+<div class="modal-content">
+<span class="close" onclick="closeModal()">&times;</span>
+<div id="bibtex-content" class="bibtex-snippet"></div>
+</div>
+</div>
+
+<!-- Link the external CSS file -->
+<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+
+<!-- Link the external JavaScript file -->
+<script src="/assets/js/scripts.js"></script>

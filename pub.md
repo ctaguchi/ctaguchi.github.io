@@ -37,7 +37,7 @@ The Proceedings of the Linguistic Society of America, Vol. 9 (1), 2024. \\
 1. Automatic Phonetic Transcription into the International Phonetic Alphabet. \\
 **Chihiro Taguchi**, Yusuke Sakai, Parisa Haghani, David Chiang. \\
 INTERSPEECH, 2023. \\
-[[Paper]](https://arxiv.org/abs/2308.03917) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2023_universal')">BibTeX</button> \\
+[[Paper]](https://arxiv.org/abs/2308.03917) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2023_universal')">BibTeX</button>
 
 1. Grammaticalization of modal nominal predicates in Tatar. \\
 **Chihiro Taguchi**. \\
@@ -51,15 +51,19 @@ LFG23: The 28th International Lexical Functional Grammar Conference, 2023. \\
 
 1. 沖縄語のUniversal Dependenciesツリーバンクコーパスの構築. \\
 So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. \\
-言語処理学会第29回年次大会, 2023. \\
+The 29th Annual Meeting of the Association for Natural Language Processing, 2023. \\
 [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-8.pdf) <button class="bibtex-button" onclick="showBibtex('miyagawa_etal_2023_okinawago')">BibTeX</button>
 
-1. **Chihiro Taguchi**, So Miyagawa. (2023). 形態論情報付き日本語Universal Dependencies. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-6.pdf) \\
-言語処理学会第29回年次大会 (The 29th Annual Meeting of the Association for Natural Language Processing).
-**委員特別賞** (Committee's Honorable Mention).
+1. 形態論情報付き日本語Universal Dependencies. \\
+**Chihiro Taguchi**, So Miyagawa. \\
+The 29th Annual Meeting of the Association for Natural Language Processing. \\
+**委員特別賞** (Committee's Honorable Mention). \\
+[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-6.pdf) <button class="bibtex-button" onclick="showBibtex('taguchi_miyagawa_2023_keitairon')">BibTeX</button>
 
-1. **Chihiro Taguchi**, David Chiang. (2023). Introducing Morphology in Universal Dependencies Japanese. [[Paper]](https://aclanthology.org/2023.udw-1.8/) \\
-The Universal Dependencies Workshop.
+1. Introducing Morphology in Universal Dependencies Japanese. \\
+**Chihiro Taguchi**, David Chiang. \\
+Sixth Workshop on Universal Dependencies (UDW, GURT/SyntaxFest 2023), 2023. \\
+[[Paper]](https://aclanthology.org/2023.udw-1.8/) <button class="bibtex-button" onclick="showBibtex('taguchi_chiang_2023_introducing')">BibTeX</button>
 
 1. **Chihiro Taguchi**. (2022). Mermaid Constructions in Lexical Functional Grammar [[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19). \\
 The Proceedings of the LFG'22 Conference.

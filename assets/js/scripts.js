@@ -103,6 +103,26 @@ const bibtexSnippets = {
     title = {沖縄語の{U}niversal {D}ependenciesツリーバンクコーパスの構築},
     booktitle = {Proceedings of the Twenty-ninth Annual Meeting of the Association for Natural Language Processing},
     year = "2023"
+}`,
+    taguchi_miyagawa_2023_keitairon: String.raw`@inproceedings{taguchi-miyagawa-2023-keitairon,
+    author = {Taguchi, Chihiro and Miyagawa, So},
+    title = {形態論情報付き日本語{U}niversal {D}ependencies},
+    booktitle = {Proceedings of the Twenty-ninth Annual Meeting of the Association for Natural Language Processing},
+    year = "2023"
+}`,
+    taguchi_chiang_2023_introducing: String.raw`@inproceedings{taguchi-chiang-2023-introducing,
+    title = "Introducing Morphology in {U}niversal {D}ependencies {J}apanese",
+    author = "Taguchi, Chihiro  and
+      Chiang, David",
+    editor = {Grobol, Lo{\"\i}c  and
+      Tyers, Francis},
+    booktitle = "Proceedings of the Sixth Workshop on Universal Dependencies (UDW, GURT/SyntaxFest 2023)",
+    month = mar,
+    year = "2023",
+    address = "Washington, D.C.",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.udw-1.8",
+    pages = "65--72"
 }`
 };
 

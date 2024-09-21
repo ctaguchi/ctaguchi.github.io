@@ -5,6 +5,13 @@
 @import "{{ site.theme }}"
 
 /* Custom styles for left column and main content */
+.header {
+  width:180px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 .left-column {
   width: 15%; /* Set the desired width */
   float: left; /* Keep the column on the left */

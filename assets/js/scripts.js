@@ -1,16 +1,16 @@
 /* assets/js/scripts.js */
 const bibtexSnippets = {
     taguchi_chiang_2024_language: `@inproceedings{taguchi-chiang-2024-language,
-title = "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn{'}t",
-author = "Taguchi, Chihiro and Chiang, David",
-editor = "Ku, Lun-Wei and Martins, Andre and Srikumar, Vivek",
-booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-month = aug,
-year = "2024",
-address = "Bangkok, Thailand",
-publisher = "Association for Computational Linguistics",
-url = "https://aclanthology.org/2024.acl-long.827",
-pages = "15493--15503"
+    title = "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn{'}t",
+    author = "Taguchi, Chihiro and Chiang, David",
+    editor = "Ku, Lun-Wei and Martins, Andre and Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.827",
+    pages = "15493--15503"
 }`,
     matogawa_etal_2024_japanese: String.raw`@inproceedings{matogawa-etal-2024-japanese,
     title = "{J}apanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet",
@@ -77,6 +77,15 @@ pages = "15493--15503"
     publisher = "ELRA and ICCL",
     url = "https://aclanthology.org/2024.mwe-1.25",
     pages = "207--219",
+}`,
+    taguchi_saransig_2024_non: String.raw`@inproceedings{taguchi-saransig-2024-non,
+    title = "Non-discourse configurationality in {I}mbabura {K}ichwa",
+    author = {Taguchi, Chihiro and Saransig, Jefferson},
+    year = "2024",
+    booktitle = {Proceedings of the Linguistic Society of America},
+    volume = {9},
+    number = {1},
+    pages = "5687",
 }`
 };
 

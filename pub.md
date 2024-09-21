@@ -115,4 +115,4 @@ The 74th Language Lunch At Edinburgh. Online.
 <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 
 <!-- Link the external JavaScript file -->
-<script src="/assets/js/scripts.js"></script>
+<script src="assets/js/scripts.js"></script>

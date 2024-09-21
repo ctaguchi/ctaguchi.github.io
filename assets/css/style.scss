@@ -15,7 +15,7 @@ section {
   padding-bottom:50px;
 }
 
-@import "{{ site.theme }}"
+@import "{{ site.theme }}";
 
 /* Custom styles for left column and main content */
 header {

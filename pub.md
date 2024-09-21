@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Presentations / Publications
-1. Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t. \\
-**Chihiro Taguchi**, David Chiang. \\
+1. **Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t**. \\
+<ins>Chihiro Taguchi</ins>, David Chiang. \\
 Annual Meeting of the Association for Computational Linguistics (ACL) Main, 2024. \\
 **Outstanding Paper Award** (~1% of the total submissions), **Senior Area Chair's Award** (<1% of the total submissions) \\
 [[Paper]](https://arxiv.org/abs/2406.09202) <button class="bibtex-button" onclick="showBibtex('taguchi_chiang_2024_language')">BibTeX</button>
@@ -47,7 +47,7 @@ INTERSPEECH, 2023. \\
 1. Japanese gapless relativization: The syntax–prosody interface to semantics. \\
 **Chihiro Taguchi**. \\
 LFG23: The 28th International Lexical Functional Grammar Conference, 2023. \\
-[[Poster]](./assets/pdf/LFG23_Poster.pdf) \\
+[[Poster]](./assets/pdf/LFG23_Poster.pdf)
 
 1. 沖縄語のUniversal Dependenciesツリーバンクコーパスの構築. \\
 So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. \\
@@ -80,7 +80,8 @@ Workshop on Computational Linguistics on East Asian languages, 29th Internationa
 Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) at LREC, 2022. \\
 [[Paper]](./assets/pdf/LREC2022.pdf), [[Slides]](./assets/pdf/20_EURALI_2022.pdf) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2022_universal')">BibTeX</button>
 
-1. **Chihiro Taguchi**. (2022). 名詞述語を伴う繰り上げ構文としての人魚構文 [[Paper]](./assets/pdf/LSJ164_Paper.pdf) [[Slides]](./assets/pdf/LSJ164_Slides_final.pdf). \\
+1.  名詞述語を伴う繰り上げ構文としての人魚構文. \\
+**Chihiro Taguchi**. (2022). 名詞述語を伴う繰り上げ構文としての人魚構文 [[Paper]](./assets/pdf/LSJ164_Paper.pdf) [[Slides]](./assets/pdf/LSJ164_Slides_final.pdf). \\
 Proceedings of the 164th Conference of the Linguistic Society of Japan.
 
 1. **Chihiro Taguchi**. (2021). Mermaid Construction in Tatar [[Paper]](./assets/pdf/LSJ162_Paper.pdf) [[Slides]](./assets/pdf/LSJ162_Slides.pdf). \\

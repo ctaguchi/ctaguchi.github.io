@@ -2,19 +2,6 @@
 ---
 ---
 
-header {
-  width:180px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
-section {
-  width:600px;
-  float:right;
-  padding-bottom:50px;
-}
-
 @import "{{ site.theme }}";
 
 /* Custom styles for left column and main content */
@@ -29,22 +16,4 @@ section {
   width:600px;
   float:right;
   padding-bottom:50px;
-}
-
-.left-column {
-  width: 15%; /* Set the desired width */
-  float: left; /* Keep the column on the left */
-}
-
-.main-content {
-  width: 80%; /* Adjust based on the left-column width */
-  float: right; /* Keep the main content on the right */
-  margin-left: 5%; /* Optional: space between the two columns */
-}
-
-/* Clearfix for floating elements */
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
 }

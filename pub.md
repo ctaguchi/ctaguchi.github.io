@@ -108,13 +108,8 @@ The 74th Language Lunch At Edinburgh. Online.
 - **Chihiro Taguchi**. (2021). Text Processing of Open-Access Jinghpaw Data on Google Colaboratory [[Slides]](./assets/pdf/Jinghpaw_followup_Taguchi.pdf). \\
 2nd Follow-up meeting on Intensive Language Course 2019 (Jinghpaw) / The 3rd meeting on Kachin studies. ILCAA, TUFS. Online.
 
-<!-- Modal structure -->
-<div id="bibtex-modal" class="modal">
-<div class="modal-content">
-<span class="close" onclick="closeModal()">&times;</span>
-<div id="bibtex-content" class="bibtex-snippet"></div>
-</div>
-</div>
+<!-- Include the modal structure from _includes/modal.html -->
+{% include modal.html %}
 
 <!-- Link the external CSS file -->
 <link rel="stylesheet" type="text/css" href="assets/css/styles.css">

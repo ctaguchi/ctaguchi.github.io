@@ -150,6 +150,75 @@ const bibtexSnippets = {
     publisher = "European Language Resources Association",
     url = "https://aclanthology.org/2022.eurali-1.17",
     pages = "95--104"
+}`,
+    taguchi_2022_meishi: String.raw`@inproceedings{taguchi-2022-meishi,
+    title = {名詞述語を伴う繰り上げ構文としての人魚構文},
+    author = "Taguchi, Chihiro",
+    booktitle = "Proceedings of the 164th Conference of the Linguistic Society of Japan",
+    year = "2022",
+    month = jun,
+    publisher = {Linguistic Society of Japan}
+}`,
+    taguchi_2022_mermaid: String.raw`@inproceedings{taguchi-2022-meishi,
+    title = {{M}ermaid {C}onstruction in {T}atar},
+    author = "Taguchi, Chihiro",
+    booktitle = "Proceedings of the 162th Conference of the Linguistic Society of Japan",
+    year = "2021",
+    month = jun,
+    publisher = {Linguistic Society of Japan}
+}`,
+    taguchi_etal_2021_transliteration: String.raw`@inproceedings{taguchi-etal-2021-transliteration,
+    title = "Transliteration for Low-Resource Code-Switching Texts: Building an Automatic {C}yrillic-to-{L}atin Converter for {T}atar",
+    author = "Taguchi, Chihiro  and
+      Sakai, Yusuke  and
+      Watanabe, Taro",
+    editor = "Solorio, Thamar  and
+      Chen, Shuguang  and
+      Black, Alan W.  and
+      Diab, Mona  and
+      Sitaram, Sunayana  and
+      Soto, Victor  and
+      Yilmaz, Emre  and
+      Srinivasan, Anirudh",
+    booktitle = "Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.calcs-1.18",
+    doi = "10.18653/v1/2021.calcs-1.18",
+    pages = "133--140"
+}`,
+    taguchi_watanabe_2021_so: String.raw`@inproceedings{taguchi-watanabe-2021-so,
+    title = "So-Called “Prepositions” in {S}omali are Not Prepositions: A Linguistic Approach for Somali POS Tagging",
+    author = "Taguchi, Chihiro and Watanabe, Taro",
+    booktitle = {Proceedings of the Twenty-seventh Annual Meeting of the Association for Natural Language Processing},
+    month = mar,
+    year = "2021"
+}`,
+    taguchi_2020_raising: String.raw`@inproceedings{taguchi-2020-raising,
+    title = "Raising to Quirky Subject in {T}atar",
+    author = {Taguchi, Chihiro},
+    booktitle = {Proceedings of the 161st Conference of the Linguistic Society of Japan},
+    year = "2020",
+    month = nov,
+    publisher = {Linguistic Society of Japan}
+}`,
+    taguchi_2019_vowel: String.raw`@inproceedings{taguchi-2019-vowel,
+    title = "Vowel Harmonies in {K}azan {T}atar: {E}lement {T}heoretical Approach",
+    author = {Taguchi, Chihiro},
+    booktitle = {Proceedings of the 159th Conference of the Linguistic Society of Japan},
+    year = "2019",
+    month = nov,
+    publisher = {Linguistic Society of Japan}
+}`,
+    taguchi_2018_kingendai: String.raw`@article{taguchi-2018-kingendai,
+    title = {近現代における言語衰退過程の観察と考察 ---琉球語宮古池間方言を事例に---},
+    author = {Taguchi, Chihiro},
+    booktitle = {政治学研究},
+    vol = "58",
+    year = "2018",
+    publisher = {Keio University Press}
 }`
 };
 

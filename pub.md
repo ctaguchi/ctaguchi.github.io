@@ -98,22 +98,22 @@ Fifth Workshop on Computational Approaches to Linguistic Code-Switching (CALCS) 
 1. **So-Called “Prepositions” in Somali are Not Prepositions: A Linguistic Approach for Somali POS Tagging** \\
 <ins>Chihiro Taguchi</ins>, Taro Watanabe. \\
 27th Annual Meeting of the Association of Natural Language Processing, 2021. \\
-[[Paper]](./pdf/ANLP2021final.pdf) [[Slides]](./assets/pdf/ANLP2021_Slides.pdf)
+[[Paper]](./pdf/ANLP2021final.pdf) [[Slides]](./assets/pdf/ANLP2021_Slides.pdf) <button class="bibtex-button" onclick="showBibtex('taguchi_watanabe_2021_so')">BibTeX</button>
 
 1. **Raising to Quirky Subject in Tatar**. \\
 <ins>Chihiro Taguchi</ins>. \\
 161st Conference of the Linguistic Society of Japan, 2020. \\
-[[Paper]](./assets/pdf/A-2_161.pdf) [[Slides]](./assets/pdf/LSJ161_Slides.pdf)
+[[Paper]](./assets/pdf/A-2_161.pdf) [[Slides]](./assets/pdf/LSJ161_Slides.pdf) <button class="bibtex-button" onclick="showBibtex('taguchi_2020_raising')">BibTeX</button>
 
 1. **Vowel Harmonies in Kazan Tatar: Element Theoretical Approach**. \\
 <ins>Chihiro Taguchi</ins>. \\
 159th Conference of the Linguistic Society of Japan.
-[[Paper]](./assets/pdf/C-7_159.pdf) [[Slides]](./assets/pdf/LSJ159_Slides.pdf)
+[[Paper]](./assets/pdf/C-7_159.pdf) [[Slides]](./assets/pdf/LSJ159_Slides.pdf) <button class="bibtex-button" onclick="showBibtex('taguchi_2019_vowel')">BibTeX</button>
 
 1.**近現代における言語衰退過程の観察と考察 —琉球語宮古池間方言を事例に—**
 <ins>Chihiro Taguchi</ins>.
 *政治学研究* [Studies in Political Science]. Keio University Press, 2018.
-[[Paper]](./assets/pdf/Seijigakukenkyu_Miyako.pdf)
+[[Paper]](./assets/pdf/Seijigakukenkyu_Miyako.pdf) <button class="bibtex-button" onclick="showBibtex('taguchi_2018_kingendai')">BibTeX</button>
 
 # Talks
 - **Chihiro Taguchi**. (2023). Incorporating AI-based Speech Transcription into Language Documentation: A case study of Imbabura Kichwa. [[Poster]](./assets/pdf/LSA_Institute2023_poster.pdf) \\

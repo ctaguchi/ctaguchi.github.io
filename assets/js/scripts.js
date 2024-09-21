@@ -123,6 +123,33 @@ const bibtexSnippets = {
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.udw-1.8",
     pages = "65--72"
+}`,
+    taguchi_2022_mermaid: String.raw`@inproceedings{taguchi-2022-mermaid,
+    title = "{M}ermaid {C}onstructions in {L}exical {F}unctional Grammar",
+    author = "Taguchi, Chihiro",
+    editor = {Batt, Miriam and Findlay, Jamie Y. and Toivonen, Ida},
+    booktitle = {The Proceedings of the LFG'22 Conference},
+    year = "2022",
+    month = dec,
+    publisher = "The LFG proceedings",
+    url = "https://lfg-proceedings.org/lfg/index.php/main/article/view/19"
+}`,
+    taguchi_etal_2022_universal: String.raw`@inproceedings{taguchi-etal-2022-universal,
+    title = "{U}niversal {D}ependencies Treebank for {T}atar: Incorporating Intra-Word Code-Switching Information",
+    author = "Taguchi, Chihiro  and
+      Iwata, Sei  and
+      Watanabe, Taro",
+    editor = "Ojha, Atul Kr.  and
+      Ahmadi, Sina  and
+      Liu, Chao-Hong  and
+      McCrae, John P.",
+    booktitle = "Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia within the 13th Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.eurali-1.17",
+    pages = "95--104"
 }`
 };
 

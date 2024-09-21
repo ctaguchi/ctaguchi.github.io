@@ -65,18 +65,20 @@ The 29th Annual Meeting of the Association for Natural Language Processing. \\
 Sixth Workshop on Universal Dependencies (UDW, GURT/SyntaxFest 2023), 2023. \\
 [[Paper]](https://aclanthology.org/2023.udw-1.8/) <button class="bibtex-button" onclick="showBibtex('taguchi_chiang_2023_introducing')">BibTeX</button>
 
-1. **Chihiro Taguchi**. (2022). Mermaid Constructions in Lexical Functional Grammar [[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19). \\
-The Proceedings of the LFG'22 Conference.
+1. Mermaid Constructions in Lexical Functional Grammar. \\
+**Chihiro Taguchi**. \\
+Proceedings of the LFG'22 Conference, 2022.
+[[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19) <button class="bibtex-button" onclick="showBibtex('taguchi_2022_mermaid')">BibTeX</button>
 
-1. **Chihiro Taguchi**. (2022). Consistent Grammatical Annotation of Turkic Languages for more universal Universal Dependencies. \\
-Workshop on Computational Linguistics on East Asian languages, 29th International Conference on Head-Driven Phrase Structure Grammar.
+1. Consistent Grammatical Annotation of Turkic Languages for more universal Universal Dependencies. \\
+**Chihiro Taguchi**. \\
+Workshop on Computational Linguistics on East Asian languages, 29th International Conference on Head-Driven Phrase Structure Grammar, 2022. \\
+[[Paper]](https://hpsg2022.github.io/abstracts/Taguchi.pdf) 
 
-1. **Chihiro Taguchi**. (2022). Mermaid Construction in Lexical Functional Grammar. [[Slides]](./assets/pdf/LFG2022_handout_final_Taguchi.pdf) \\
-LFG22: the 27th International Lexical Functional Grammar Conference.
-
-1. **Chihiro Taguchi**, Sei Iwata, and Taro Watanabe. (2022). Universal Dependencies Treebank for Tatar: Incorporating Intra-Word
-Code-Switching Information [[Paper]](./assets/pdf/LREC2022.pdf), [[Slides]](./assets/pdf/20_EURALI_2022.pdf). \\
-Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI), Language Resources and Evaluation Conference (LREC).
+1. Universal Dependencies Treebank for Tatar: Incorporating Intra-Word Code-Switching Information. \\
+**Chihiro Taguchi**, Sei Iwata, and Taro Watanabe. \\
+Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) at LREC, 2022. \\
+[[Paper]](./assets/pdf/LREC2022.pdf), [[Slides]](./assets/pdf/20_EURALI_2022.pdf) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2022_universal')">BibTeX</button>
 
 1. **Chihiro Taguchi**. (2022). 名詞述語を伴う繰り上げ構文としての人魚構文 [[Paper]](./assets/pdf/LSJ164_Paper.pdf) [[Slides]](./assets/pdf/LSJ164_Slides_final.pdf). \\
 Proceedings of the 164th Conference of the Linguistic Society of Japan.

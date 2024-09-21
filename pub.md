@@ -6,8 +6,9 @@ layout: default
 1. Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t. \\
 **Chihiro Taguchi**, David Chiang. \\
 The Annual Meeting of the Association for Computational Linguistics (ACL 2024) Main. \\
-**Outstanding Paper Award** (~1% of the total submissions), **Senior Area Chair's Award** (<1% of the total submissions)
-[[Paper]](https://arxiv.org/abs/2406.09202) <button class="bibtex-button" onclick="showBibtex('taguchi-chiang-2024-language')">BibTeX</button> \\
+**Outstanding Paper Award** (~1% of the total submissions), **Senior Area Chair's Award** (<1% of the total submissions) \\
+[[Paper]](https://arxiv.org/abs/2406.09202) \\
+<button class="bibtex-button" onclick="showBibtex('taguchi-chiang-2024-language')">BibTeX</button>
 
 1. Yuhi Matogawa, Yusuke Sakai, Taro Watanabe, **Chihiro Taguchi**.
 (2024).

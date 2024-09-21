@@ -12,18 +12,17 @@ Annual Meeting of the Association for Computational Linguistics (ACL) Main, 2024
 1. Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet. \\
 Yuhi Matogawa, Yusuke Sakai, Taro Watanabe, **Chihiro Taguchi**. \\
 Special Interest Group on Computational Morphology and Phonology (SIGMORPHON) at NAACL, 2024. \\
-[[Paper]](https://aclanthology.org/2024.sigmorphon-1.9) <button class="bibtex-button" onclick="showBibtex('matogawa_etal_2024_japanese')">BibTeX</button> \\
+[[Paper]](https://aclanthology.org/2024.sigmorphon-1.9) <button class="bibtex-button" onclick="showBibtex('matogawa_etal_2024_japanese')">BibTeX</button>
 
 1. Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information. \\
 **Chihiro Taguchi**, Jefferson Saransig, Dayana Velásquez, David Chiang. \\
 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024. \\
-[[Paper]](https://aclanthology.org/2024.lrec-main.852) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2024_killkan')">BibTeX</button> \\
+[[Paper]](https://aclanthology.org/2024.lrec-main.852) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2024_killkan')">BibTeX</button>
 
-1. Tatsuya Aoyama, **Chihiro Taguchi**, Nathan Schneider.
-(2024).
-J-SNACS: Adposition and Case Supersenses for Japanese Joshi.
-[[Paper]](https://aclanthology.org/2024.lrec-main.839) \\
-LREC-COLING 2024.
+1. J-SNACS: Adposition and Case Supersenses for Japanese Joshi. \\
+Tatsuya Aoyama, **Chihiro Taguchi**, Nathan Schneider. \\
+Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024. \\
+[[Paper]](https://aclanthology.org/2024.lrec-main.839) <button class="bibtex-button" onclick="showBibtex('aoyama_etal_2024_jsnacs')">BibTeX</button>
 
 1. Jonathan Washington, Çağrı Çöltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Gulnura Jumalieva, Aida Kasieva, Aslı Kuzgun, Büşra Marşan, **Chihiro Taguchi**.
 (2024).

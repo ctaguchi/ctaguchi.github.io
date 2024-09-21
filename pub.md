@@ -5,21 +5,19 @@ layout: default
 # Presentations / Publications
 1. Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t. \\
 **Chihiro Taguchi**, David Chiang. \\
-The Annual Meeting of the Association for Computational Linguistics (ACL 2024) Main. \\
+Annual Meeting of the Association for Computational Linguistics (ACL) Main, 2024. \\
 **Outstanding Paper Award** (~1% of the total submissions), **Senior Area Chair's Award** (<1% of the total submissions) \\
 [[Paper]](https://arxiv.org/abs/2406.09202) <button class="bibtex-button" onclick="showBibtex('taguchi_chiang_2024_language')">BibTeX</button>
 
-1. Yuhi Matogawa, Yusuke Sakai, Taro Watanabe, **Chihiro Taguchi**.
-(2024).
-Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet.
-[[Paper]](https://aclanthology.org/2024.sigmorphon-1.9) \\
-Special Interest Group on Computational Morphology and Phonology (SIGMORPHON) at NAACL 2024.
+1. Japanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet. \\
+Yuhi Matogawa, Yusuke Sakai, Taro Watanabe, **Chihiro Taguchi**. \\
+Special Interest Group on Computational Morphology and Phonology (SIGMORPHON) at NAACL, 2024. \\
+[[Paper]](https://aclanthology.org/2024.sigmorphon-1.9) <button class="bibtex-button" onclick="showBibtex('matogawa_etal_2024_japanese')">BibTeX</button> \\
 
-1. **Chihiro Taguchi**, Jefferson Saransig, Dayana Velásquez, David Chiang.
-(2024).
-Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information.
-[[Paper]](https://aclanthology.org/2024.lrec-main.852) \\
-LREC-COLING 2024.
+1. Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information. \\
+**Chihiro Taguchi**, Jefferson Saransig, Dayana Velásquez, David Chiang. \\
+Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024. \\
+[[Paper]](https://aclanthology.org/2024.lrec-main.852) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2024_killkan')">BibTeX</button> \\
 
 1. Tatsuya Aoyama, **Chihiro Taguchi**, Nathan Schneider.
 (2024).

@@ -10,9 +10,33 @@ year = "2024",
 address = "Bangkok, Thailand",
 publisher = "Association for Computational Linguistics",
 url = "https://aclanthology.org/2024.acl-long.827",
-pages = "15493--15503",
-abstract = "We investigate what linguistic factors affect the performance of Automatic Speech Recognition (ASR) models. We hypothesize that orthographic and phonological complexities both degrade accuracy. To examine this, we fine-tune the multilingual self-supervised pretrained model Wav2Vec2-XLSR-53 on 25 languages with 15 writing systems, and we compare their ASR accuracy, number of graphemes, unigram grapheme entropy, logographicity (how much word/morpheme-level information is encoded in the writing system), and number of phonemes. The results demonstrate that a high logographicity correlates with low ASR accuracy, while phonological complexity has no significant effect.",
-}`
+pages = "15493--15503"
+}`,
+    matogawa_etal_2024_japanese: `@inproceedings{matogawa-etal-2024-japanese,
+    title = "{J}apanese Rule-based Grapheme-to-phoneme Conversion System and Multilingual Named Entity Dataset with International Phonetic Alphabet",
+    author = "Matogawa, Yuhi and Sakai, Yusuke and Watanabe, Taro and Taguchi, Chihiro",
+    editor = {Nicolai, Garrett and Chodroff, Eleanor and Mailhot, Frederic and {\c{C}}{\"o}ltekin, {\c{C}}a{\u{g}}r{\i}},
+    booktitle = "Proceedings of the 21st SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.sigmorphon-1.9",
+    doi = "10.18653/v1/2024.sigmorphon-1.9",
+    pages = "77--86",
+}`,
+    taguchi_etal_2024_killkan: `@inproceedings{taguchi-etal-2024-killkan,
+    title = "Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information",
+    author = "Taguchi, Chihiro and Saransig, Jefferson and Vel{\'a}squez, Dayana and Chiang, David",
+    editor = "Calzolari, Nicoletta and Kan, Min-Yen and Hoste, Veronique and Lenci, Alessandro and Sakti, Sakriani and Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.852",
+    pages = "9753--9763"
+}`    
 };
 
 // Function to show BibTeX in modal

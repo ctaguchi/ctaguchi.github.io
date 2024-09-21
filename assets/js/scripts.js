@@ -97,6 +97,12 @@ const bibtexSnippets = {
     year = {2023},
     pages = {2548-2552},
     doi = {10.21437/Interspeech.2023-2584}
+}`,
+    miyagawa_etal_2023_okinawago: String.raw`@inproceedings{miyagawa-etal-2023-okinawago,
+    author = {Miyagawa, So and Kanayama, Hiroshi and Taguchi, Chihiro and Tohyama, Nana},
+    title = {沖縄語の{U}niversal {D}ependenciesツリーバンクコーパスの構築},
+    booktitle = {Proceedings of the Twenty-ninth Annual Meeting of the Association for Natural Language Processing},
+    year = "2023"
 }`
 };
 

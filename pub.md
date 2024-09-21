@@ -39,14 +39,20 @@ The Proceedings of the Linguistic Society of America, Vol. 9 (1), 2024. \\
 INTERSPEECH, 2023. \\
 [[Paper]](https://arxiv.org/abs/2308.03917) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2023_universal')">BibTeX</button> \\
 
-1. **Chihiro Taguchi**. (2023). Grammaticalization of modal nominal predicates in Tatar. [[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf) \\
-21st International Conference on Turkish Linguistics.
+1. Grammaticalization of modal nominal predicates in Tatar. \\
+**Chihiro Taguchi**. \\
+21st International Conference on Turkish Linguistics, 2023. \\
+[[Slides]](./assets/pdf/ICTL_Tatar_modal_nominal_predicate.pdf)
 
-1. **Chihiro Taguchi**. (2023). Japanese gapless relativization: The syntax–prosody interface to semantics. [[Poster]](./assets/pdf/LFG23_Poster.pdf) \\
-LFG23: The 28th International Lexical Functional Grammar Conference.
+1. Japanese gapless relativization: The syntax–prosody interface to semantics. \\
+**Chihiro Taguchi**. \\
+LFG23: The 28th International Lexical Functional Grammar Conference, 2023. \\
+[[Poster]](./assets/pdf/LFG23_Poster.pdf) \\
 
-1. So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. (2023). 沖縄語のUniversal Dependenciesツリーバンクコーパスの構築. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-8.pdf) \\
-言語処理学会第29回年次大会.
+1. 沖縄語のUniversal Dependenciesツリーバンクコーパスの構築. \\
+So Miyagawa, Hiroshi Kanayama, **Chihiro Taguchi**, Nana Tohyama. \\
+言語処理学会第29回年次大会, 2023. \\
+[[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-8.pdf) <button class="bibtex-button" onclick="showBibtex('miyagawa_etal_2023_okinawago')">BibTeX</button>
 
 1. **Chihiro Taguchi**, So Miyagawa. (2023). 形態論情報付き日本語Universal Dependencies. [[Paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P3-6.pdf) \\
 言語処理学会第29回年次大会 (The 29th Annual Meeting of the Association for Natural Language Processing).

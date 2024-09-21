@@ -25,6 +25,12 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+section {
+  width:600px;
+  float:right;
+  padding-bottom:50px;
+}
+
 .left-column {
   width: 15%; /* Set the desired width */
   float: left; /* Keep the column on the left */

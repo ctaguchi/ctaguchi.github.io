@@ -25,6 +25,8 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me.
 
 ## News
+- (January 22, 2025) Our paper "[A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches](https://openreview.net/forum?id=Q6PAnqYVpo)" has been accepted at [ICLR 2025](https://iclr.cc/).
+- (January 13, 2025) I started my internship at [Megagon Labs](https://megagon.ai/).
 - (October 4, 2024) I was awarded the Lucy 2024 Societal Impact Award!
 - (September 11, 2024) I gave a talk at the [NLP Colloquium](https://nlp-colloquium-jp.github.io) on my ACL 2024 paper.
 - (August 14, 2024) At [ACL 2024](https://2024.aclweb.org) I received two awards (Outstanding Paper Award and Senior Area Chair's Award) for my paper ["Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn't"](https://arxiv.org/abs/2406.09202)!
@@ -51,8 +53,4 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 ## Contact
 Notre Dame: c[ my surname ] at nd.edu
 
-## Posts
-- [『罪と罰』](./posts/2024-08-31-crime-and-punishment.md)
-
 <img width="601" alt="itscalledhymmnosfyi" src="https://user-images.githubusercontent.com/72488381/213342087-609e6bf7-07c2-4a76-b529-710e34e11c1e.png">
-B

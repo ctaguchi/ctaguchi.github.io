@@ -25,6 +25,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Let me know if you are interested in language exchange with me.
 
 ## News
+- (March 11, 2025) I presented a poster about machine translation for the Jinghpaw language at the 2025 Annual Meeting of the Association for Natural Language Processing in Nagasaki.
 - (January 22, 2025) Our paper "[A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches](https://openreview.net/forum?id=Q6PAnqYVpo)" has been accepted at [ICLR 2025](https://iclr.cc/).
 - (January 13, 2025) I started my internship at [Megagon Labs](https://megagon.ai/).
 - (October 4, 2024) I was awarded the Lucy 2024 Societal Impact Award!

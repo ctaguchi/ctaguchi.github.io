@@ -24,6 +24,10 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
     - Mandarin Chinese, Spanish, Italian, Thai
     - Let me know if you are interested in language exchange with me.
 
+
+## Thoughts
+- [Nominal raising predicates in Ainu](./posts/2025-06-12-mermaid-in-ainu.md)
+
 ## News
 - (March 11, 2025) I presented a poster about machine translation for the Jinghpaw language at the 2025 Annual Meeting of the Association for Natural Language Processing in Nagasaki.
 - (March 7, 2025) I presented our work "Digital documentation for diasporic data: Challenges, opportunities, and solutions for working with diaspora communities" at [ICLDC 2025](https://ling.lll.hawaii.edu/sites/icldc/)

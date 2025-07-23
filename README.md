@@ -13,22 +13,21 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 ## Interests
 - Linguistics
     - Turkic (Tatar), Quechuan (Kichwa), Japonic (Japanese)
-    - Syntax (Minimalism, Lexical-Functional Grammar)
+    - Syntax (Minimalism, Lexical-Functional Grammar, Construction Grammar)
+    - Semantics (Discourse Representation Theory)
     - Language documentation
     - Anything about languages
 - Natural Language Processing & Computational Linguistics
     - Speech recognition
     - Machine translation
     - Large language models
-- Language learning
-    - Mandarin Chinese, Spanish, Italian, Thai
-    - Let me know if you are interested in language exchange with me.
-
 
 ## Thoughts
 - [Nominal raising predicates in Ainu](./posts/2025-06-12-mermaid-in-ainu.md)
 
 ## News
+- (July 7, 2025) I am participating in the Linguistic Society of America's [2025 Summer Institute](https://center.uoregon.edu/LSA/2025) with the support of the General Institute Fellowship!
+- (May 19, 2025) I started an internship at [Sakana.ai](https://sakana.ai/)
 - (March 11, 2025) I presented a poster about machine translation for the Jinghpaw language at the 2025 Annual Meeting of the Association for Natural Language Processing in Nagasaki.
 - (March 7, 2025) I presented our work "Digital documentation for diasporic data: Challenges, opportunities, and solutions for working with diaspora communities" at [ICLDC 2025](https://ling.lll.hawaii.edu/sites/icldc/)
 - (January 22, 2025) Our paper "[A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches](https://openreview.net/forum?id=Q6PAnqYVpo)" has been accepted at [ICLR 2025](https://iclr.cc/).

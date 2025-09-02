@@ -26,6 +26,7 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 - [Nominal raising predicates in Ainu](./posts/2025-06-12-mermaid-in-ainu.md)
 
 ## News
+- (August 21, 2025) Two of my first-author papers have been accepted at EMNLP 2025 Main! [Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k](https://arxiv.org/abs/2506.08479) and [Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark](https://www.arxiv.org/abs/2508.20511).
 - (July 7, 2025) I am participating in the Linguistic Society of America's [2025 Summer Institute](https://center.uoregon.edu/LSA/2025) with the support of the General Institute Fellowship!
 - (May 19, 2025) I started an internship at [Sakana.ai](https://sakana.ai/)
 - (March 11, 2025) I presented a poster about machine translation for the Jinghpaw language at the 2025 Annual Meeting of the Association for Natural Language Processing in Nagasaki.

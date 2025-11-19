@@ -74,7 +74,7 @@ táは否定文ではnílになります。
 | Cáit | /kɑːt́/ | カーチ（女性の人名） | 英語の人名の Kate |
 | cupán | /kupɑːɴ/ | コップ | 複数形は cupáin /kupɑːń/ |
 | deir | /d́eŕ/ | 言う | |
-| doras | /dorəs/ | ドア | | 英語 door と同語源 |
+| doras | /dorəs/ | ドア | 英語 door と同語源 |
 | duine | /dińə/ | 人 | 複数形は daoine /diːńə/ |
 | eile | /eĺə/ | 他の | 英語 else と同語源 |
 | fear | /f́æːr/ | 男 | ラテン語 vir '男' と同語源。複数形は　fir /f́iŕ/ |

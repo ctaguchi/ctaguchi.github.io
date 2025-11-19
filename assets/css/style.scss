@@ -6,6 +6,12 @@
 @import "jekyll-theme-minimal";
 
 /* Custom styles for left column and main content */
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+
 header {
   width:200px;
   float:left;
@@ -21,9 +27,4 @@ header {
 section {
   margin-left:220px;
   padding-bottom:50px;
-}
-
-.wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
 }

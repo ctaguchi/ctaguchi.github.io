@@ -20,10 +20,11 @@ as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr
 - Natural Language Processing & Computational Linguistics
     - Speech recognition
     - Machine translation
-    - Large language models
+    - Large language model
 
 ## Thoughts
 - [Nominal raising predicates in Ainu](./posts/2025-06-12-mermaid-in-ainu.md)
+- [Learn Irish in Japanese（日本語で学ぶアイルランド語）](./grammars/irish.md)
 
 ## News
 - (August 21, 2025) Two of my first-author papers have been accepted at EMNLP 2025 Main! [Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k](https://arxiv.org/abs/2506.08479) and [Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark](https://www.arxiv.org/abs/2508.20511).

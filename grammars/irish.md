@@ -1,3 +1,10 @@
+---
+layout: post
+lang: ja
+date: November 19, 2025
+title: アイルランド語文法
+---
+
 # 第一課: 存在動詞 tá
 
 ## 文法

@@ -7,23 +7,30 @@
 
 /* Custom styles for left column and main content */
 .wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
+    max-width: 1000px;
+    margin: 0 auto
 }
 
-
 header {
-  width:200px;
-  float:left;
-  // position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+    width: 200px;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: subpixel-antialiased
+}
+
+footer {
+    width: 200px;
 }
 
 section {
-  width:600px;
-  float:right;
-  padding-bottom:50px;
+    /* width: 600px; */
+    width: 750px;
+    float: right;
+    margin-left: 200px;
+    /* padding-left: 20px; */
+    /* padding-bottom: 50px */
 }
+
 
 // section {
 //   margin-left:200px;

@@ -2,14 +2,8 @@
 ---
 /* assets/css/style.scss */
 
-// @import "{{ site.theme }}";
-@import "jekyll-theme-minimal";
-
-/* Custom styles for left column and main content */
-.wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-}
+@import "{{ site.theme }}";
+// @import "jekyll-theme-minimal";
 
 /* Override theme's forced collapse under 960px */
 @media screen and (max-width: 960px) {
@@ -17,6 +11,12 @@
     max-width: 1200px !important;
     margin: 0 auto !important;
   }
+}
+
+/* Custom styles for left column and main content */
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 

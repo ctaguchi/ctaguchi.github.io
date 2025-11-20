@@ -16,6 +16,9 @@
     <div class="wrapper">
       <header>
 	<h1>{{ page.title }}</h1>
+  
+  <a href="{{ site.url }}"><small>&larr; Back to top page</small></a>
+  <br>
 	
 	{% if page.tags %}
 	<small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>

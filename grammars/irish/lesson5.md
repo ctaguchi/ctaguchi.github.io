@@ -133,3 +133,13 @@ Tá an oíche ann anois agus tá leabhartha agus páipéir Mháirtín ar an mbor
 12. Tá an áit dheas ar an mapa.
 13. An bhfuil Fraincis ansin?
 14. Tá Fraincis mhaith ansin.
+
+## おまけ
+練習問題中に「フランス語がありますか？」という表現が出てきましたが、「〜語がある」「〜語を持っている」という表現はアイルランド語独特のものです。
+例えば、「あなたはアイルランド語が話せますか？」と尋ねるときは、
+
+- An bhfuil Gaeilge agat? 'あなたにアイルランド語がありますか？'
+
+という表現になります。
+また、アイルランド英語でも *Do you have Irish?* という表現が、「アイルランド語は話せますか？」という意味で使われています。
+上記のアイルランド語の表現は、[このYouTubeの動画](https://www.youtube.com/watch?v=PXhDlYREJyo) で聞くことができる上に、字幕でも上記のアイルランド英語の表現で訳されているのを見ることができます。

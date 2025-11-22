@@ -97,15 +97,20 @@ title: アイルランド語文法
 |-----|------|-----|-----|
 | áit | /ɑːt́/ | 場所 | 複数形は áiteacha /ɑːt́əxiː/ |
 | álainn | /ɑːʟəɴ́/ | 美しい | |
+| an | /ə(ɴ)/ | 定冠詞（第五課参照） | |
 | aoibhinn | /iːẃəɴ́/ | 快い、心地よい | |
+| ar | /eŕ/ | の上に | |
+| ar aon chaoi | /eŕ eː xiː/ | とにかく | |
+| ard | /ɑːrd/ | 背の高い | |
+| aríst | /əˈŕiːśt́/ | また、再び | |
 | b'fhéidir (go/nach) | /b́eːd́əŕ/ | 多分、おそらく | |
 | báisteach | /bɑːśt́əx/ | f. 雨 | |
 | beag | /b́og/ | 小さい | |
-| bean | /b́æːɴ/ | f. 女性 | |
+| bean | /b́æːɴ/ | f. 女性 | 複数形は mná /mrɑː/ |
 | breá | /b́ŕɑː/ | 良い | 英語の fine |
 | cabaire | /kaːbəŕə/ | m. おしゃべりな人 | |
 | candáil | /kaːndɑĺ/ | f. オークション、競り | |
-| ceann | | | |
+| ceann | /ḱɑːɴ/ | m. 頭、端、屋根、一つ | 複数形は ceanna /ḱæːɴə/ |
 | cearc | /ḱæːrk/ | 雌鶏 | |
 | cinnte | /ḱiːɴ́t́ə/ | 確かに、きっと、確かだ | |
 | cláirseach | /kʟɑːŕśəx/ | ハープ | |
@@ -123,17 +128,22 @@ title: アイルランド語文法
 | maith | /maː/ | 良い | |
 | moladh | /moʟə/ | m. 称賛 | |
 | mór | /moːr/ | 大きい | |
-| náisiún | /ɴɑːśuːɴ/ | m. 国家 | 英語の nation に対応 |
+| náisiún | /ɴɑːśuːɴ/ | m. 国家 | 英語の nation に対応。複数形は náisiúin |
 | olc | /oʟk/ | 悪い、邪悪な | |
+| pota | /potə/ | m. 鍋 | |
 | réasúnta | /ŕeːsuːɴtə/ | それなりに | 英語の reasonably |
 | sagart | /saːgərt/ | m. 司祭 | |
 | scéalaí | /śḱeːʟiː/ | m. 語り部 | |
+| scian | /śḱiːɴ/ | f. ナイフ | |
+| scian phóca | /śḱiːɴ foːkə/ | f. ポケットナイフ | |
 | solas | /soʟəs/ | m. 光 | 複数形は soilse /saiĺśə/ |
+| talamh | /taːʟə/ | m. 地面、土 | 複数形は taltaí /taːʟtiː/ |
 | tír | /t́iːŕ/ | f. 国、土地 | 複数形は tíreacha /t́iːŕəxiː/ |
 
 ## 練習
 ### Mapa eile
 以下の会話をアイルランド語から日本語に翻訳しましょう。
+
 - A Cháit, an bhfuil mapa ann?
 - Tá mapa ann cinnte.
 - Tá go leor tíreacha ar an mapa. Tá Meireacá ansin agus tír mhór eile anseo.
@@ -150,9 +160,50 @@ title: アイルランド語文法
 ### Peictiúir
 アイルランド語から日本語に翻訳しましょう。
 
-（準備中）
+Bhoil, tá peictiúir go leor anseo ar aon chaoi.
+Nach bhfuil siad go deas?
+Tá Cáit agus bean bhreá eile ansin agus tá mná eile anseo.
+Tá peictiúr deas eile anseo ach tá báisteach ann agus níl an solas go maith.
+Tá sagart ansin agus bean Pháidín agus Éireannach eile anseo.
+Tá siad go hiontach!
+Tá ceann iontach eile anseo.
+Tá rudaí go leor ar an talamh ansin.
+Tá teach Bhríd anseo agus tá cearc mhór agus pota beag ann.
+Tá ceann álainn eile ansin agus tá cláirseach mhór agus scian phóca ansin.
+Tá siad go hálainn!
 
 ### 翻訳
 日本語からアイルランド語に翻訳しましょう。
 
-（準備中）
+1. 地図の上にたくさんの国がある。
+2. カーチ、イングランドはどこにある？
+3. そこに大きな窓があって、ここに素敵な（nice）窓がある。
+4. 今は素敵だ（nice）。それは美しい。
+5. そこに良い（good）男がいて、良い女もいる。
+6. ここには良いアイルランド語がある。大学が全くない。
+7. ジールマジ、そこには大きな部屋があって、上等な（fine）ハープもあるんだ。
+8. ここには上等な（fine）大きな窓がある。
+9. たくさんの国（country）と国家（nation）がある。
+10. 多分パージーンの妻とブリーヂの夫がここにいる。
+11. 雨と寒さがある。
+12. 素敵な（nice）女性と、司祭と、大きな農民と、他の背の高いアイルランド人がここにいる。
+13. ここにはとにかく、大きなゲールタハトがある。
+14. ここには良い（fine）場所があって、多分そっちにももう一つある。
+15. 私たちはまたここにいる。素晴らしい。
+
+#### 回答
+1. Tá tíreacha go leor ar an mapa.
+1. A Cháit, cá bhfuil Sasana?
+1. Tá fuinneoig mhór ansin agus tá guinneoig dheas anseo.
+1. Tá sé go deas anois. Tá sé go hálainn.
+1. Tá fear maith ansin agus bean mhaith freisin.
+1. Tá Gaeilge mhaith ansin. Níl cólaiste ar chor ar bith ann.
+1. A Dhiarmaid, tá seomra mór ansin agus tá cláirseach bhreá ann freisin.
+1. Tá fuinneoig bhreá mhór anseo.
+1. Tá tíreacha agus náisiúin go leor ann.
+1. B'fhéidir go bhfuil bean Pháidín agus fear Bhríd anseo.
+1. Tá báisteach agus fuacht ann.
+1. Tá bean dheas, sagart, feilméara mór, agus Éireannach ard eile ann.
+1. Tá Gaeltacht mhór anseo ar aon chaoi.
+1. Tá áit bhreá anseo, agus b'fhéidir go bhfuil ceann eile ansin freisin.
+1. Tá muid anseo aríst. Tá sé go iontach.

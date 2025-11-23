@@ -74,10 +74,12 @@ ag は前置詞で、英語の at に対応します。
 
 | 単語 | 発音 | 意味 | 補足 |
 |-----|------|-----|-----|
+| ag | /eǵ/ | 〜に、〜で、〜のところに | 英語の at |
 | amháin | /əˈwɑːń/ | 一つ | |
 | anuraidh | /əˈɴurə/ | 去年 | |
 | ariamh | /əˈŕiːəw/ | 今まで、決して（ない） | 英語の ever, never |
-| Baile Átha Cliath | /b́ĺɑː ˈḱl̃iːə/ | ダブリン | アイルランド語名は、「柵のついた洗い越しの街」を意味する |
+| aríst | /əˈŕiːśt́/ | また、再び | |
+| Baile Átha Cliath | /b́ĺɑː ˈḱĺiːə/ | ダブリン | アイルランド語名は、「柵のついた洗い越しの街」を意味する |
 | bróig | /broːǵ/ | f. 靴 | 複数形は bróga |
 | bus | /bus/ | m. バス | 複数形は busanna |
 | cabhantar | /kauntər/ | m. カウンター | 複数形は cabhantair |
@@ -92,6 +94,7 @@ ag は前置詞で、英語の at に対応します。
 | geansaí | /ǵæːńsiː/ | m. ジャンパー | 複数形は geansaíocha |
 | go minic | /gə ḿińiḱ/ | 頻繁に、よく | |
 | gúna | /guːɴə/ | m. ドレス | 複数形は gúnaí |
+| inné | /əˈɴ́eː/ | 昨日 | |
 | léine | /ʟ́eːńə/ | f. シャツ | 複数形は léinteacha |
 | maime | /maːḿə/ | お母さん | 英語の mom |
 | mar sin | /maːr śiń/ | そのように | |
@@ -99,6 +102,7 @@ ag は前置詞で、英語の at に対応します。
 | mórán | /moːrɑːɴ/ | たくさんの | |
 | muis | /muś/ | その通り、いかにも | |
 | neart | /ɴ́æːrt/ | たくさんの | |
+| nó | /ɴuː/ | あるいは | |
 | saor | /siːr/ | 安い | |
 | sciorta | /śḱirtə/ | m. スカート | 複数形は sciortaí |
 | seachtain | /śæːxtəń/ | f. 週 | |
@@ -154,7 +158,35 @@ Tá Baile Átha Cliath go hiontach.'
 ### 翻訳
 日本語からアイルランド語に翻訳しましょう。
 
-1. (準備中)
+1. ダブリンは明日素晴らしいだろう。
+2. 私は昨年一週間そこにいた。
+3. あなたたちは昨日病気だったの？
+4. あなたたちは明日ここにいるの？　私たちはきっとここにいるよ、とにかく。
+5. 彼はまたここにいるだろうかどうか、確かではない。
+6. その女性には大きな家があって、たくさんの部屋があった。
+7. テーブルの上に本（複数）と新聞（複数）がありましたか？　はい、まさに。
+8. マーラはまた、素敵なコートと素晴らしいドレスを持っています。
+9. 人はたくさんいましたか？　その場所に満足していましたか？
+10. 道にはたっくさんの（go leor leor）車とバスがあるだろうけど、多くの木はないだろう。
+11. 再び門のところに何人か人がいたので、カーチは満足した。
+12. ヂールマヂは素敵なシャツを持っているよね？（付加疑問文）
+13. 反対側に道があったが、多くの人はいなかった。
+14. ペギェの父と母はその写真にそれなりに満足していた。
+15. 窓の近くの床には、シャツ（複数）とズボン（複数）とたくさんの他の服があった。
 
 #### 回答
-1. （準備中）
+1. Beidh Baile Átha Cliath go hiontach amáireach.
+2. Bhí mé seachtain ansin anuraidh.
+3. An raibh sibh tinn inné?
+4. An mbeidh sibh anseo amáireach? Beidh muid anseo cinnte, ar aon chaoi.
+5. Níl sé cinnte an mbeidh sé anseo aríst nó nach mbeidh.
+6. Bhí teach mór ag an mbean, agus bhí go leor seomraí ann.
+7. An raibh leabhartha agus páipéir ar an mbord? Bhí, muis.
+8. Tá cóta deas agus gúna iontach ag Máire freisin.
+9. An raibh go leor daoine ann? An rabhadh sásta leis an aít?
+10. Beidh go leor leor carranna agus busanna ar an mbóthar ach ní bheidh go leor croinnte ann.
+11. Bhí cupla duine ag an ngeáta arist, bhi Cáit sásta mar sin.
+12. Tá léine deas ag Diarmaid, nach bhfuil?
+13. Bhí bóthar ar an taobh eile ach ní raibh go leor daoine.
+14. Bhí athair agus máthair Mháire réasúnta sásta leis an bpeictiúr.
+15. Bhí léinteacha, treabhsair, agus go leor éadaí eile ar an orlár in aice leis an bhfuinneoig.

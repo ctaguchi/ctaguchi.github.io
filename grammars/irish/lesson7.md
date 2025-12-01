@@ -200,13 +200,13 @@ Bíonn daoine óga sásta i gcónaí, nach mbíonn, a Bhairbre Bheag?'
 1. Bhí gasúir bheaga ag Máirtín.
 2. Tá fuinneoga móra deasa anseo.
 3. Tá croinnte móra agus feilmeacha deasa anseo anois ach beidh tithe agus cólaistí anseo.
-4. Bhí go leor beithígh agus caiple anseo ach níl siad go leor ar chor ar bith anois.
-5. Bhíodh siad sásta leis an bhfeilm, ní bhíodh?
-6. Ní bhíodh an talamh go maith anseo agus bhíodh an iomarca uisce.
-7. Bheifeá sásta leis an saol ar an bhfeilm? — Bheinn, cinnte.
+4. Bhí go leor beithígh agus caiple anseo ach anois níl mórán ann ar chor ar bith.
+5. Bhídís sásta leis an bhfeilm, nch mbídís?
+6. Ní bhíodh an talamh go maith anseo agus bhíodh an iomarca uisce ann.
+7. An mbeifeá sásta leis an saol ar an bhfeilm? — Bheinn, cinnte.
 8. Bheadh an samhradh agus an geimhreadh go deas anseo.
-9. Bhí go leor daoine soibhire anseo.
-10. Bhí mé cupla seachtain ansin anuraidh agus bhí an aimsir go hiontach.
+9. Bhí neart daoine soibhre anseo.
+10. Bhí mé ansin cupla seachtain anuraidh agus bhí an aimsir go hiontach.
 11. Tá mac agus inín ag an mbean.
 12. Ó muise, an créatúr! Tá sé fuar anseo aríst.
 13. Tá caoirigh agus caiple ar an gcnoc.

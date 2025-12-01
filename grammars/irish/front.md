@@ -4,3 +4,4 @@
 - [Lesson 4](./lesson4.md)
 - [Lesson 5](./lesson5.md)
 - [Lesson 6](./lesson6.md)
+- [Lesson 7](./lesson7.md)

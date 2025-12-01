@@ -93,11 +93,12 @@ title: アイルランド語文法
 | an iomarca | /əɴ́ umərkə/ | あまりにも多くの | 英語の too much |
 | asal | /aːsəʟ/ | m. ロバ | 複数形は asail /aːsəĺ/ |
 | bainne | /baːɴ́ə/ | 牛乳 | |
-| beithígh | /b́ei/ | 牛（複数） | |
+| beithíoch | /b́eix/ | 牛、野獣 | 複数形は beithígh /b́ei/ |
+| bó | /boː/ | f. 牛 | 英語 bovine と同語源。この語は専ら単数形でしか用いられず、複数では beithíoch の複数形 beithígh が用いられる（形態論でいう補充形 suppletion）。 |
 | bocht | /boxt/ | 貧しい | |
 | bradach | /braːdəx/ | 狡猾な、ずるい | |
 | caora | /kiːrə/ | f. 羊 | 複数形は caoirigh /kiːŕə/ |
-| capall | /kaːpəʟ/ | m. 馬 | 複数形は　caiple /kaːṕĺə/ |
+| capall | /kaːpəʟ/ | m. 馬 | 複数形は　caiple /kaːṕĺə/。スペイン語の caballo（馬）と同語源。 |
 | cat | /kut/ | m. 猫 | 発音に注意。複数形は cait /kit́/ |
 | cé go | /ḱeː gə/ | 〜ではあるが | 英語の although |
 | cearc | /ḱæːrk/ | f. 雌鶏 | 複数形は cearca /ḱæːrkə/ |
@@ -105,8 +106,9 @@ title: アイルランド語文法
 | 'chuile | /xiĺə/ | 全ての | 後続の名詞の語頭は軟音化する |
 | cineál | /ḱiɴɑːʟ/ | ある種、ある意味で | |
 | cnoc | /knuk/ | m. 丘 | 複数形は cnoic /kriḱ/ |
+| coláiste | /kʟɑːśt́ə/ | m. 大学 | 複数形は coláistí |
 | dall | /dɑːʟ/ | 盲の、目が見えない | |
-| feilm | /f́eĺəḿ/ | 一つ | 複数形は feilmeacha |
+| feilm | /f́eĺəḿ/ | 畑、農地 | 複数形は feilmeacha |
 | francach | /fraːŋkəx/ | m. 鼠 | 複数形は francaigh /fraːnkə/ |
 | fuar | /fuːər/ | 寒い | |
 | geimhreadh | /ǵiːẃŕə/ | m. 冬 | |
@@ -123,10 +125,11 @@ title: アイルランド語文法
 | peata | /ṕæːtə/ | m. ペット | 複数形は peataí |
 | samhradh | /saurə/ | m. 夏 | |
 | saol | /siːʟ/ | m. 人生、暮らし | |
-| soibhir | /seẃəŕ/ | 金持ちな | |
+| soibhir | /seẃəŕ/ | 金持ちな | saibhir とも綴る |
 | spéisiúil | /sṕeːśuːĺ/ | 面白い | |
 | tábhachtach | /tɑːwəxtəx/ | 大事な、重要な | |
 | talamh | /taːʟə/ | m. 地面 | |
+| teach | /t́æːx/ | m. 家 | 複数形は tithe /t́iː/ |
 | uasal | /uːəsəʟ/ | 貴族の | 複数形は uaisle |
 | uisce | /iśḱə/ | m. 水 | |
 
@@ -177,7 +180,35 @@ Bíonn daoine óga sásta i gcónaí, nach mbíonn, a Bhairbre Bheag?'
 ### 翻訳
 日本語からアイルランド語に翻訳しましょう。
 
-1. (準備中)
+1. マールチーンには小さな子供たちがいた。
+2. ここには素敵な大きな窓（複数）がある。
+3. 今はここには大きな木々と素敵な畑（複数）があるが、ここには家（複数）と大学（複数）ができるだろう（táの未来形を使って）。
+4. ここにはたくさんの牛（複数）や馬（複数）がいたが、今は全然多くはいない。
+5. 彼らは農地に満足していた（過去習慣形を用いて）のではないか？（付加疑問文を用いて）
+6. ここは土地（an talamh）が良くなく、水がありすぎた。（過去習慣形を用いて）
+7. 農地での生活にあなたは満足するでしょうか？（条件形を用いて）　はい、きっとします。（条件形を用いて）
+8. ここでは夏と冬が素敵でしょう。（条件形を用いて）
+9. ここにはたくさんの豊かな人々がいた。
+10. 私はそこに去年何週間かいて、天気が素晴らしかった。
+11. その女性には息子と娘がいる。
+12. ああ、かわいそうに（ó muise, an créatúr）！　ここはまた寒い。
+13. 丘の上に羊（複数）と馬（複数）がいる。
+14. 皆様（貴族たちよ！）、皆その場所に満足していますか？
+15. その本はどうせ面白くないだろう（条件形を用いて）と私は確信している（cinnte）。
 
 #### 回答
-1. （準備中）
+1. Bhí gasúir bheaga ag Máirtín.
+2. Tá fuinneoga móra deasa anseo.
+3. Tá croinnte móra agus feilmeacha deasa anseo anois ach beidh tithe agus cólaistí anseo.
+4. Bhí go leor beithígh agus caiple anseo ach níl siad go leor ar chor ar bith anois.
+5. Bhíodh siad sásta leis an bhfeilm, ní bhíodh?
+6. Ní bhíodh an talamh go maith anseo agus bhíodh an iomarca uisce.
+7. Bheifeá sásta leis an saol ar an bhfeilm? — Bheinn, cinnte.
+8. Bheadh an samhradh agus an geimhreadh go deas anseo.
+9. Bhí go leor daoine soibhire anseo.
+10. Bhí mé cupla seachtain ansin anuraidh agus bhí an aimsir go hiontach.
+11. Tá mac agus inín ag an mbean.
+12. Ó muise, an créatúr! Tá sé fuar anseo aríst.
+13. Tá caoirigh agus caiple ar an gcnoc.
+14. A dhaoine uaisle, an bhfuil 'chuile dhuine sásta leis an áit?
+15. Tá mé cinnte nach mbeadh an leabhar spéisiúil ar aon chaoi.

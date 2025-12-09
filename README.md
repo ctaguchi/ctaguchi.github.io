@@ -3,6 +3,8 @@
 I'm Chihiro Taguchi, a full-time language lover.
 I'm a PhD student in Computer Science and Engineering (CSE) at the [University of Notre Dame](https://nd.edu), USA,
 as part of the [Natural Language Processing group](https://nlp.nd.edu) led by Dr. David Chiang.
+
+My name in Japanese is 田口智大, and roughly speaking, it's pronounced as /tágɯ̀t͡ɕì t͡ɕìçíɾó/ (á: high pitch, à: low pitch).
 <br />
 
 ## Quick links

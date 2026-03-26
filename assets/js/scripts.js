@@ -1,5 +1,56 @@
 /* assets/js/scripts.js */
 const bibtexSnippets = {
+    taguchi_etal_2025_efficient: `@inproceedings{taguchi-etal-2025-efficient,
+    title = "Efficient Context Selection for Long-Context {QA}: No Tuning, No Iteration, Just Adaptive{-}$k$",
+    author = "Taguchi, Chihiro  and
+      Maekawa, Seiji  and
+      Bhutani, Nikita",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1017/",
+    doi = "10.18653/v1/2025.emnlp-main.1017",
+    pages = "20105--20130",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Retrieval-augmented generation (RAG) and long-context language models (LCLMs) both address context limitations of LLMs in open-domain QA. However, optimal external context to retrieve remains an open problem: fixed retrieval budgets risk wasting tokens or omitting key evidence. Existing adaptive methods like Self-RAG and Self-Route rely on iterative LLM prompting and perform well on factoid QA, but struggle with aggregation QA where optimal context size is unknown and variable. We present Adaptive{-}$k$ retrieval, a simple and effective single-pass method that selects a query-specific number of passages by applying a threshold to the similarity scores between the query and candidate passages. It does not require model fine-tuning, extra LLM calls or changes to existing retriever{--}reader pipelines. On both factoid and aggregation QA benchmarks, Adaptive{-}$k$ matches or outperforms fixed{-}$k$ baselines while using up to 10x fewer tokens than full-context input, and still retrieves 70{\%} of relevant passages. It improves accuracy across five LCLMs and two embedding models, highlighting that dynamically adjusting context size leads to more efficient and accurate QA."
+}`,
+    taguchi_etal_2025_languages: `@inproceedings{taguchi-etal-2025-languages,
+    title = "Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark",
+    author = "Taguchi, Chihiro  and
+      Mai, Seng  and
+      Kurabe, Keita  and
+      Sakai, Yusuke  and
+      Agyei, Georgina  and
+      Eslami, Soudabeh  and
+      Chiang, David",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1018/",
+    doi = "10.18653/v1/2025.emnlp-main.1018",
+    pages = "20131--20143",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Multilingual machine translation (MT) benchmarks play a central role in evaluating the capabilities of modern MT systems. Among them, the FLORES+ benchmark is widely used, offering English-to-many translation data for over 200 languages, curated with strict quality control protocols. However, we study data in four languages (Asante Twi, Japanese, Jinghpaw, and South Azerbaijani) and uncover critical shortcomings in the benchmark{'}s suitability for truly multilingual evaluation. Human assessments reveal that many translations fall below the claimed 90{\%} quality standard, and the annotators report that source sentences are often too domain-specific and culturally biased toward the English-speaking world. We further demonstrate that simple heuristics, such as copying named entities, can yield non-trivial BLEU scores, suggesting vulnerabilities in the evaluation protocol. Notably, we show that MT models trained on naturalistic data perform poorly on FLORES+ while achieving significant gains on our domain-relevant evaluation set. Based on these findings, we advocate for multilingual MT benchmarks that use domain-general, named-entity-agnostic, and culturally neutral source texts to better reflect real-world translation challenges."
+}`,
+    deguchi_etal_2025_softmatcha: `@inproceedings{deguchi2025softmatcha,
+title={SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches},
+author={Hiroyuki Deguchi and Go Kamoda and Yusuke Matsushita and Chihiro Taguchi and Kohei Suenaga and Masaki Waga and Sho Yokoi},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=Q6PAnqYVpo}
+}`,
     taguchi_chiang_2024_language: `@inproceedings{taguchi-chiang-2024-language,
     title = "Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn{'}t",
     author = "Taguchi, Chihiro and Chiang, David",

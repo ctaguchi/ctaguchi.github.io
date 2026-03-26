@@ -3,6 +3,25 @@ layout: default
 ---
 
 # Presentations / Publications
+1. **Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan**. \\
+<ins>Chihiro Taguchi</ins>, Yukinori Takubo, David Chiang. \\
+The Language Resources and Evaluation Conference (LREC), 2026.
+
+1. **Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k**. \\
+<ins>Chihiro Taguchi</ins>, Seiji Maekawa, Nikita Bhutani. \\
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Papers, 2025. \\
+[[Paper]](https://aclanthology.org/2025.emnlp-main.1017/) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2025_efficient')>BibTeX</button>
+
+1. **Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark**. \\
+<ins>Chihiro Taguchi</ins>, Seng Mai, Keita Kurabe, Yusuke Sakai, Georgina Agyei, Soudabeh Eslami, David Chiang. \\
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Papers, 2025. \\
+[[Paper]](https://aclanthology.org/2025.emnlp-main.1018/) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2025_languages')">BibTeX</button>
+
+1. **SoftMatcha: A soft and fast pattern matcher for billion-scale corpus searches**. \\
+Hiroyuki Deguchi, Go Kamoda, Yusuke Matsushita, <ins>Chihiro Taguchi</ins>, Kohei Suenaga, Masaki Waga, Sho Yokoi. \\
+The Thirteenth International Conference on Learning Representations (ICLR), 2025. \\
+[[Paper]](https://openreview.net/forum?id=Q6PAnqYVpo) <button class="bibtex-button" onclick="showBibtex('deguchi_etal_2025_softmatcha')">BibTeX</button>
+
 1. **Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t**. \\
 <ins>Chihiro Taguchi</ins>, David Chiang. \\
 Annual Meeting of the Association for Computational Linguistics (ACL) Main, 2024. \\

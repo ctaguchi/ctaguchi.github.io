@@ -10,7 +10,6 @@ My name in Japanese is 田口智大, and roughly speaking, it's pronounced as /t
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
 - [Publications](./pub.md)
-- [About my research](./about.md)
 
 ## Interests
 - Linguistics
@@ -29,6 +28,8 @@ My name in Japanese is 田口智大, and roughly speaking, it's pronounced as /t
 - [Learn Irish in Japanese（日本語で学ぶアイルランド語）](./grammars/irish/front.md)
 
 ## News
+- (March 16, 2026) I started an internship at Sakana AI (again).
+- (February 15, 2026) Our paper "Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan" has been accepted at LREC2026!
 - (February 6, 2026) I passed the Oral Candidacy Exam and am now a PhD candidate!
 - (January 9, 2026) Happy New Year! I won the [Shared Task "Mozilla Common Voice Spontaneous Speech ASR"](https://community.mozilladatacollective.com/shared-task-mozilla-common-voice-spontaneous-speech-asr/) in the "Best Improvement over Baseline" subtask.
 - (August 21, 2025) Two of my first-author papers have been accepted at EMNLP 2025 Main! [Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k](https://arxiv.org/abs/2506.08479) and [Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark](https://www.arxiv.org/abs/2508.20511).

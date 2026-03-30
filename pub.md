@@ -10,7 +10,7 @@ The Language Resources and Evaluation Conference (LREC), 2026.
 1. **Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k**. \\
 <ins>Chihiro Taguchi</ins>, Seiji Maekawa, Nikita Bhutani. \\
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Papers, 2025. \\
-[[Paper]](https://aclanthology.org/2025.emnlp-main.1017/) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2025_efficient')>BibTeX</button>
+[[Paper]](https://aclanthology.org/2025.emnlp-main.1017/) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2025_efficient')">BibTeX</button>
 
 1. **Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark**. \\
 <ins>Chihiro Taguchi</ins>, Seng Mai, Keita Kurabe, Yusuke Sakai, Georgina Agyei, Soudabeh Eslami, David Chiang. \\

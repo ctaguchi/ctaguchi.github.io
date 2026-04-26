@@ -28,6 +28,7 @@ My name in Japanese is 田口智大, and roughly speaking, it's pronounced as /t
 - [Learn Irish in Japanese（日本語で学ぶアイルランド語）](./grammars/irish/front.md)
 
 ## News
+- (April 7, 2026) Our paper "Creating ConLangs to Probe the Metalinguistic Grammatical Knowledge of LLMs" has been accepted at ACL2026.
 - (March 16, 2026) I started an internship at Sakana AI (again).
 - (February 15, 2026) Our paper "Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan" has been accepted at LREC2026!
 - (February 6, 2026) I passed the Oral Candidacy Exam and am now a PhD candidate!

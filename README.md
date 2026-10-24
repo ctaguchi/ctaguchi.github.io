@@ -31,7 +31,9 @@ My name in Japanese is 田口智大, and roughly speaking, it's pronounced as /t
 - [Learn Irish in Japanese（日本語で学ぶアイルランド語）](./grammars/irish/front.md)
 
 ## News
-- (June 3, 2026) My first-author paper Pretrained self-supervised speech models can recognize unseen consonants" has been accepted at Interspeech 2026.
+- (October 5, 2026) My abstract "MaxEnt Modeling of Verbal Honorific Marking in Early Middle Japanese: Evidence for an Actor–Undergoer-Based Analysis" has been accepted at the 2027 LSA Annual Meeting.
+- (September 29, 2026) I presented my first-author paper "Pretrained self-supervised speech models can recognize unseen consonants" at Interspeech 2026.
+- (August 16, 2026) I contributed a chapter on ASR for IPA transcription to [The Transcription of Atypical Speech](https://utppublishing.com/doi/10.3138/9781049810058), which is to be published in March 2027 by the University of Toronto Press.
 - (April 7, 2026) Our paper "Creating ConLangs to Probe the Metalinguistic Grammatical Knowledge of LLMs" has been accepted at ACL2026.
 - (March 16, 2026) I started an internship at Sakana AI (again).
 - (February 15, 2026) Our paper "Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan" has been accepted at LREC2026.

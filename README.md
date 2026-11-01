@@ -31,6 +31,8 @@ My name in Japanese is 田口智大, and roughly speaking, it's pronounced as /t
 - [Learn Irish in Japanese（日本語で学ぶアイルランド語）](./grammars/irish/front.md)
 
 ## News
+- (October 30, 2026) Our paper "Technological optimism, skepticism, and apathy: What the Miyakoan-speaking community want from AI" has been accepted for presentation at the 10th International Conference on Language Documentation and Conservation (ICLDC 10), to be presented on MArch 4-7, 2027. See you in Honolulu!
+- (October 29, 2026) I have been appointed to the Committee on Linguistic Institutes and Fellowships by the Executive Committee of the Linguistic Society of America.
 - (October 5, 2026) My abstract "MaxEnt Modeling of Verbal Honorific Marking in Early Middle Japanese: Evidence for an Actor–Undergoer-Based Analysis" has been accepted at the 2027 LSA Annual Meeting.
 - (September 29, 2026) I presented my first-author paper "Pretrained self-supervised speech models can recognize unseen consonants" at Interspeech 2026.
 - (August 16, 2026) I contributed a chapter on ASR for IPA transcription to [The Transcription of Atypical Speech](https://utppublishing.com/doi/10.3138/9781049810058), which is to be published in March 2027 by the University of Toronto Press.

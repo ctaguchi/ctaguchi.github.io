@@ -1,5 +1,42 @@
 /* assets/js/scripts.js */
 const bibtexSnippets = {
+    taguchi_etal_2026_pretrained: `@inproceedings{taguchi26_interspeech,
+  title     = {{Pretrained self-supervised speech models can recognize unseen consonants}},
+  author    = {Chihiro Taguchi and Éric {Le Ferrand} and Hirosi Nakagawa and Hitomi Ono and Kanji Kato and Emily Prud'hommeaux and David Chiang},
+  year      = {2026},
+  booktitle = {{Interspeech 2026}},
+  pages     = {1453--1458},
+  doi       = {10.21437/Interspeech.2026-2848},
+  issn      = {2958-1796},
+}`,
+    kubo_etal_2026_building: `@inproceedings{kubo26_interspeech,
+  title     = {{Building Tailored Speech Recognizers for Japanese Speaking Assessment}},
+  author    = {Yotaro Kubo and Richard Sproat and Chihiro Taguchi and Llion Jones},
+  year      = {2026},
+  booktitle = {{Interspeech 2026}},
+  pages     = {2078--2082},
+  doi       = {10.21437/Interspeech.2026-1672},
+  issn      = {2958-1796},
+}`,
+    taguchi_sproat_2026_creating: `@inproceedings{taguchi-sproat-2026-creating,
+    title = "Creating {C}on{L}angs to Probe the Metalinguistic Grammatical Knowledge of {LLM}s",
+    author = "Taguchi, Chihiro  and
+      Sproat, Richard",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1455/",
+    doi = "10.18653/v1/2026.findings-acl.1455",
+    pages = "29096--29148",
+    ISBN = "979-8-89176-395-1",
+    abstract = "We present a system that uses LLMs as a tool in the development of Constructed Languages{---} ConLangs, which we call IASC (Interactive Agentic System for ConLangs). The system is modular in that it creates each of the components{---}phonology, morphology and syntax, lexicon, orthography, and grammatical handbook, using module-specific sets of prompts. The approach is agentic in that various modules allow for refining the output given automatically-generated commentary on a previous step. Our main goals are twofold. First, we aim to provide tools that facilitate an engaging and enjoyable experience in creating artificially constructed languages. Second, the focus of this paper is on using our ConLang framework as a novel way to explore what LLMs \`know' about language{---}not what they know about any particular language or encyclopedic facts, but how much they know about and understand language and linguistic concepts. In the experiments, we particularly focus on the morphosyntax module and show that there is a fairly wide gulf in capabilities both among different LLMs and among different linguistic specifications, with it being notably easier for systems to deal with more typologically common patterns than rarer ones. All code is released: \url{https://github.com/SakanaAI/IASC}."
+}`,
     taguchi_etal_2025_efficient: `@inproceedings{taguchi-etal-2025-efficient,
     title = "Efficient Context Selection for Long-Context {QA}: No Tuning, No Iteration, Just Adaptive{-}$k$",
     author = "Taguchi, Chihiro  and
@@ -19,6 +56,27 @@ const bibtexSnippets = {
     pages = "20105--20130",
     ISBN = "979-8-89176-332-6",
     abstract = "Retrieval-augmented generation (RAG) and long-context language models (LCLMs) both address context limitations of LLMs in open-domain QA. However, optimal external context to retrieve remains an open problem: fixed retrieval budgets risk wasting tokens or omitting key evidence. Existing adaptive methods like Self-RAG and Self-Route rely on iterative LLM prompting and perform well on factoid QA, but struggle with aggregation QA where optimal context size is unknown and variable. We present Adaptive{-}$k$ retrieval, a simple and effective single-pass method that selects a query-specific number of passages by applying a threshold to the similarity scores between the query and candidate passages. It does not require model fine-tuning, extra LLM calls or changes to existing retriever{--}reader pipelines. On both factoid and aggregation QA benchmarks, Adaptive{-}$k$ matches or outperforms fixed{-}$k$ baselines while using up to 10x fewer tokens than full-context input, and still retrieves 70{\%} of relevant passages. It improves accuracy across five LCLMs and two embedding models, highlighting that dynamically adjusting context size leads to more efficient and accurate QA."
+}`,
+    taguchi_etal_2026_automatic: `@inproceedings{taguchi-etal-2026-automatic,
+    title = "Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan",
+    author = "Taguchi, Chihiro  and
+      Takubo, Yukinori  and
+      Chiang, David",
+    editor = "Piperidis, Stelios  and
+      Bel, N{\'u}ria  and
+      van den Heuvel, Henk  and
+      Ide, Nancy  and
+      Krek, Simon  and
+      Toral, Antonio",
+    booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2026",
+    address = "Palma de Mallorca, Spain",
+    publisher = "ELRA Language Resource Association",
+    url = "https://aclanthology.org/2026.lrec-1.284/",
+    doi = "10.63317/4im4f6vuxk42",
+    pages = "3547--3555",
+    abstract = "Language endangerment poses a major challenge to linguistic diversity worldwide, and technological advances have opened new avenues for documentation and revitalization. Among these, automatic speech recognition (ASR) has shown increasing potential to assist in the transcription of endangered language data. This study focuses on Ikema, a severely endangered Ryukyuan language spoken in Okinawa, Japan, with approximately 1,300 remaining speakers, most of whom are over 60 years old. We present an ongoing effort to develop an ASR system for Ikema based on field recordings. Specifically, we (1) construct a 6.33-hour speech corpus from field recordings, (2) train an ASR model that achieves a character error rate as low as 15{\%}, and (3) evaluate the impact of ASR-assisted transcription on annotation efficiency. Our results demonstrate that ASR integration can substantially reduce transcription time and cognitive load, offering a practical pathway toward scalable, technology-supported documentation of endangered languages."
 }`,
     taguchi_etal_2025_languages: `@inproceedings{taguchi-etal-2025-languages,
     title = "Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark",
@@ -175,7 +233,7 @@ url={https://openreview.net/forum?id=Q6PAnqYVpo}
     url = "https://aclanthology.org/2023.udw-1.8",
     pages = "65--72"
 }`,
-    taguchi_2022_mermaid: String.raw`@inproceedings{taguchi-2022-mermaid,
+    taguchi_2022_mermaid_lfg: String.raw`@inproceedings{taguchi-2022-mermaid-lfg,
     title = "{M}ermaid {C}onstructions in {L}exical {F}unctional Grammar",
     author = "Taguchi, Chihiro",
     editor = {Batt, Miriam and Findlay, Jamie Y. and Toivonen, Ida},
@@ -210,7 +268,7 @@ url={https://openreview.net/forum?id=Q6PAnqYVpo}
     month = jun,
     publisher = {Linguistic Society of Japan}
 }`,
-    taguchi_2022_mermaid: String.raw`@inproceedings{taguchi-2022-meishi,
+    taguchi_2022_mermaid: String.raw`@inproceedings{taguchi-2022-mermaid,
     title = {{M}ermaid {C}onstruction in {T}atar},
     author = "Taguchi, Chihiro",
     booktitle = "Proceedings of the 162th Conference of the Linguistic Society of Japan",

@@ -3,9 +3,37 @@ layout: default
 ---
 
 # Presentations / Publications
+1. **Technological optimism, skepticism, and apathy: What the Miyakoan-speaking community want from AI**. \\
+<ins>Chihiro Taguchi</ins>, Kiyono Fujinaga-Gordon, Akitaka Yamada. \\
+10th International Conference on Language Documentation and Conservation (ICLDC), 2027.
+
+1. **MaxEnt Modeling of Verbal Honorific Marking in Early Middle Japanese: Evidence for an Actor–Undergoer-Based Analysis**. \\
+<ins>Chihiro Taguchi</ins>. \\
+Annual Meeting of the Linguistic Society of America, 2027.
+
+1. **Pretrained self-supervised speech models can recognize unseen consonants**. \\
+<ins>Chihiro Taguchi</ins>, ´Eric Le Ferrand, Hirosi Nakagawa, Hitomi Ono, Kanji Kato, Emily Prud’hommeaux, David Chiang. \\
+INTERSPEECH, 2026. \\
+[[Paper]](https://www.isca-archive.org/interspeech_2026/taguchi26_interspeech.html) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2026_pretrained')">BibTeX</button>
+
+1. **Building Tailored Speech Recognizers for Japanese Speaking Assessment**. \\
+Yotaro Kubo, Richard Sproat, <ins>Chihiro Taguchi</ins>, Llion Jones. \\
+INTERSPEECH, 2026. \\
+[[Paper]](https://www.isca-archive.org/interspeech_2026/kubo26_interspeech.html) <button class="bibtex-button" onclick="showBibtex('kubo_etal_2026_building')">BibTeX</button>
+
+1. **Notre Dame NLP at Mozilla Common Voice Spontaneous Speech ASR Shared Task: Language-agnostic augmentation of spontaneous speech data**. \\
+<ins>Chihiro Taguchi</ins>. \\
+In submission.
+
+1. **Creating ConLangs to Probe the Metalinguistic Grammatical Knowledge of LLMs**. \\
+<ins>Chihiro Taguchi</ins>, Richard Sproat. \\
+Findings of the Association for Computational Linguistics: ACL 2026. \\
+[[Paper]](https://aclanthology.org/2026.findings-acl.1455/) <button class="bibtex-button" onclick="showBibtex('taguchi_sproat_2026_creating')">BibTeX</button>
+
 1. **Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan**. \\
 <ins>Chihiro Taguchi</ins>, Yukinori Takubo, David Chiang. \\
-The Language Resources and Evaluation Conference (LREC), 2026.
+The Language Resources and Evaluation Conference (LREC), 2026. \\
+[[Paper]](https://aclanthology.org/2026.lrec-1.284/) <button class="bibtex-button" onclick="showBibtex('taguchi_etal_2026_automatic')">BibTeX</button>
 
 1. **Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k**. \\
 <ins>Chihiro Taguchi</ins>, Seiji Maekawa, Nikita Bhutani. \\
@@ -87,7 +115,7 @@ Sixth Workshop on Universal Dependencies (UDW, GURT/SyntaxFest 2023), 2023. \\
 1. **Mermaid Constructions in Lexical Functional Grammar**. \\
 <ins>Chihiro Taguchi</ins>. \\
 Proceedings of the LFG'22 Conference, 2022.
-[[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19) <button class="bibtex-button" onclick="showBibtex('taguchi_2022_mermaid')">BibTeX</button>
+[[Paper]](https://ojs.ub.uni-konstanz.de/lfg/index.php/main/article/view/19) <button class="bibtex-button" onclick="showBibtex('taguchi_2022_mermaid_lfg')">BibTeX</button>
 
 1. **Consistent Grammatical Annotation of Turkic Languages for more universal Universal Dependencies**. \\
 <ins>Chihiro Taguchi</ins>. \\

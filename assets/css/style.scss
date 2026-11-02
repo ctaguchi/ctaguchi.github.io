@@ -125,3 +125,38 @@ section {
         color: #444
     }
 }
+
+/* Light mode defaults */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --link-color: #0066cc;
+  --border-color: #e5e5e5;
+  --code-bg: #f4f4f4;
+}
+
+/* Dark mode overrides */
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #e4e4e7;
+  --link-color: #60a5fa;
+  --border-color: #27272a;
+  --code-bg: #18181b;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+header, footer, table, hr, th, td {
+  border-color: var(--border-color);
+}
+
+code, pre {
+  background-color: var(--code-bg);
+}

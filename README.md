@@ -13,18 +13,19 @@ My name in Japanese is 田口智大, and roughly speaking, it's pronounced as /t
 ## Quick links
 - [CV](./assets/pdf/CV.pdf)
 - [Publications](./pub.md)
+- [Google Scholar](https://scholar.google.com/citations?user=fMNQfhYAAAAJ)
 
 ## Interests
+- Natural Language Processing
+    - Multimodal & Multilingual LLM
+    - Speech recognition
+    - Machine translation
 - Linguistics
     - Turkic (Tatar), Quechuan (Kichwa), Japonic (Japanese)
     - Syntax (Minimalism, Lexical-Functional Grammar, Construction Grammar)
     - Semantics (Discourse Representation Theory)
     - Language documentation
     - Anything about languages
-- Natural Language Processing & Computational Linguistics
-    - Speech recognition
-    - Machine translation
-    - Large language model
 
 ## Thoughts
 - [Nominal raising predicates in Ainu](./posts/2025-06-12-mermaid-in-ainu.md)
